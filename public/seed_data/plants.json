@@ -1,0 +1,1082 @@
+[
+  {
+    "plantId": "PLANT_001",
+    "name": "Bhadla Solar Park Ph-I",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-10-07T09:51:15.928Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_002",
+    "name": "Bhadla Solar Park Ph-II",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-02-28T23:28:01.245Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_003",
+    "name": "Pavagada Solar Complex East",
+    "type": "SOLAR",
+    "capacityKw": 15000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-12-31T21:09:21.152Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_004",
+    "name": "Rewa Ultra Mega Solar",
+    "type": "SOLAR",
+    "capacityKw": 5000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-03-13T03:54:47.570Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_005",
+    "name": "Kamuthi Photovoltaic Station",
+    "type": "SOLAR",
+    "capacityKw": 40000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-07-25T15:09:41.439Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_006",
+    "name": "Charanka Solar Hub",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2025-12-26T16:58:21.675Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_007",
+    "name": "Kurnool Ultra Solar Park",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-05-29T19:45:33.522Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_008",
+    "name": "Ananthapuramu Solar Facility",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2025-12-17T19:09:06.990Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_009",
+    "name": "Dholera Solar Array A",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-10-26T10:20:27.249Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_010",
+    "name": "Mandsaur Solar Plant",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-07T18:46:42.397Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_011",
+    "name": "Kadapa Ultra Mega Solar",
+    "type": "SOLAR",
+    "capacityKw": 15000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-07-28T18:22:48.927Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_012",
+    "name": "Fatehgarh Solar Hub",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-08-24T08:21:16.106Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_013",
+    "name": "Kaza High-Altitude Solar",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-01-21T23:42:58.697Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_014",
+    "name": "Neemuch Solar Farm",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-07-20T04:36:54.406Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_015",
+    "name": "Surendranagar Solar Station",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-01-23T09:57:45.029Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_016",
+    "name": "Nokh Solar Park Unit 1",
+    "type": "SOLAR",
+    "capacityKw": 15000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-06-16T09:32:21.301Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_017",
+    "name": "Nokh Solar Park Unit 2",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2025-12-01T14:57:10.761Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_018",
+    "name": "Banaskantha Solar Farm",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-10-15T15:17:56.409Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_019",
+    "name": "Bhadla Solar Park Ph-I Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-04-23T10:33:27.625Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_020",
+    "name": "Bhadla Solar Park Ph-II Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-07T05:50:32.093Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_021",
+    "name": "Pavagada Solar Complex East Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-13T08:00:28.140Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_022",
+    "name": "Rewa Ultra Mega Solar Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-02-03T13:49:23.874Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_023",
+    "name": "Kamuthi Photovoltaic Station Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-07-06T08:17:04.966Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_024",
+    "name": "Charanka Solar Hub Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-05-11T10:07:07.344Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_025",
+    "name": "Kurnool Ultra Solar Park Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-02-10T01:34:56.890Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_026",
+    "name": "Ananthapuramu Solar Facility Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 5000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-06-19T02:12:56.283Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_027",
+    "name": "Dholera Solar Array A Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 40000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-05-10T19:07:32.173Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_028",
+    "name": "Mandsaur Solar Plant Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-12-08T08:15:28.832Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_029",
+    "name": "Kadapa Ultra Mega Solar Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-21T05:15:51.561Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_030",
+    "name": "Fatehgarh Solar Hub Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-12-24T02:38:58.740Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_031",
+    "name": "Kaza High-Altitude Solar Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-01-18T03:37:10.613Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_032",
+    "name": "Neemuch Solar Farm Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-12-28T22:45:40.231Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_033",
+    "name": "Surendranagar Solar Station Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-04-15T22:29:00.136Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_034",
+    "name": "Nokh Solar Park Unit 1 Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 20000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-03-23T22:42:27.148Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_035",
+    "name": "Nokh Solar Park Unit 2 Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-03-07T17:21:07.748Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_036",
+    "name": "Banaskantha Solar Farm Sec-2",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Andhra Pradesh",
+    "commissionedOn": "2026-07-08T23:54:45.313Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_037",
+    "name": "Bhadla Solar Park Ph-I Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-06-12T04:22:21.202Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_038",
+    "name": "Bhadla Solar Park Ph-II Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-04-24T06:27:23.272Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_039",
+    "name": "Pavagada Solar Complex East Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-01-09T02:02:28.136Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_040",
+    "name": "Rewa Ultra Mega Solar Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-10-10T00:00:23.967Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_041",
+    "name": "Kamuthi Photovoltaic Station Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-12-07T19:06:58.601Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_042",
+    "name": "Charanka Solar Hub Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-05-15T04:58:51.130Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_043",
+    "name": "Kurnool Ultra Solar Park Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-03-26T04:15:49.543Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_044",
+    "name": "Ananthapuramu Solar Facility Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-04-13T18:23:18.691Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_045",
+    "name": "Dholera Solar Array A Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 50000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-08-25T17:06:07.212Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_046",
+    "name": "Mandsaur Solar Plant Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2026-06-21T01:53:26.128Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_047",
+    "name": "Kadapa Ultra Mega Solar Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Madhya Pradesh",
+    "commissionedOn": "2025-12-16T19:09:13.863Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_048",
+    "name": "Fatehgarh Solar Hub Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 15000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-12-17T12:16:45.433Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_049",
+    "name": "Kaza High-Altitude Solar Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-05-15T03:24:43.924Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_050",
+    "name": "Neemuch Solar Farm Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 10000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-02-28T08:46:52.664Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_051",
+    "name": "Surendranagar Solar Station Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-05-01T02:57:23.060Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_052",
+    "name": "Nokh Solar Park Unit 1 Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 25000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-03-23T13:22:05.518Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_053",
+    "name": "Nokh Solar Park Unit 2 Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 40000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-11-10T15:54:12.283Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_054",
+    "name": "Banaskantha Solar Farm Sec-3",
+    "type": "SOLAR",
+    "capacityKw": 75000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-08-03T05:54:50.988Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_055",
+    "name": "Bhadla Solar Park Ph-I Sec-4",
+    "type": "SOLAR",
+    "capacityKw": 15000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-02-10T05:07:44.266Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_056",
+    "name": "Muppandal Wind Farm North",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-11-28T05:30:08.883Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_057",
+    "name": "Muppandal Wind Farm South",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-05-05T09:55:11.473Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_058",
+    "name": "Jaisalmer Wind Park Cluster 1",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-04-08T14:31:10.931Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_059",
+    "name": "Brahmanvel Wind Farm",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-17T18:02:58.309Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_060",
+    "name": "Kayathar Wind Power Station",
+    "type": "WIND",
+    "capacityKw": 12000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-07-29T15:05:14.380Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_061",
+    "name": "Dhalgaon Wind Cluster",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-05-02T00:19:53.608Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_062",
+    "name": "Vankusawade Wind Park",
+    "type": "WIND",
+    "capacityKw": 48000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-08-15T10:41:22.539Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_063",
+    "name": "Beluguppa Wind Farm",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-12-26T12:24:08.878Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_064",
+    "name": "Tuppadahalli Wind Facility",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-04-22T23:08:42.428Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_065",
+    "name": "Kukru Wind Park",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-02-25T01:16:30.360Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_066",
+    "name": "Sangli Wind Park",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-10-23T15:45:29.296Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_067",
+    "name": "Chitradurga Wind Heights",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-10-11T02:38:13.664Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_068",
+    "name": "Kutch Wind Energy Park",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-10-29T09:15:19.750Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_069",
+    "name": "Satara Wind Range",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-07-18T20:51:27.174Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_070",
+    "name": "Gadag Wind Farm",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-02-26T10:11:14.966Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_071",
+    "name": "Muppandal Wind Farm North Turb-2",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-01-24T19:39:39.771Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_072",
+    "name": "Muppandal Wind Farm South Turb-2",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Maharashtra",
+    "commissionedOn": "2026-07-10T03:57:56.493Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_073",
+    "name": "Jaisalmer Wind Park Cluster 1 Turb-2",
+    "type": "WIND",
+    "capacityKw": 12000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-08-15T12:59:47.913Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_074",
+    "name": "Brahmanvel Wind Farm Turb-2",
+    "type": "WIND",
+    "capacityKw": 48000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-03-07T20:39:58.390Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_075",
+    "name": "Kayathar Wind Power Station Turb-2",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-11-05T18:21:13.648Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_076",
+    "name": "Dhalgaon Wind Cluster Turb-2",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2025-11-02T04:04:00.000Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_077",
+    "name": "Vankusawade Wind Park Turb-2",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-05-01T16:41:31.722Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_078",
+    "name": "Beluguppa Wind Farm Turb-2",
+    "type": "WIND",
+    "capacityKw": 36000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-03-16T00:03:58.669Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_079",
+    "name": "Tuppadahalli Wind Facility Turb-2",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-11-12T09:15:45.296Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_080",
+    "name": "Kukru Wind Park Turb-2",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-11-22T08:36:54.976Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_081",
+    "name": "Sangli Wind Park Turb-2",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Maharashtra",
+    "commissionedOn": "2025-10-30T21:42:42.531Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_082",
+    "name": "Chitradurga Wind Heights Turb-2",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Maharashtra",
+    "commissionedOn": "2025-10-19T16:16:07.350Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_083",
+    "name": "Kutch Wind Energy Park Turb-2",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-10-20T06:25:19.944Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_084",
+    "name": "Satara Wind Range Turb-2",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Maharashtra",
+    "commissionedOn": "2026-04-21T16:57:11.706Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_085",
+    "name": "Gadag Wind Farm Turb-2",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Rajasthan",
+    "commissionedOn": "2025-12-12T19:55:11.700Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_086",
+    "name": "Muppandal Wind Farm North Turb-3",
+    "type": "WIND",
+    "capacityKw": 18000,
+    "location": "Gujarat",
+    "commissionedOn": "2026-04-06T22:10:30.241Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_087",
+    "name": "Muppandal Wind Farm South Turb-3",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Maharashtra",
+    "commissionedOn": "2026-07-22T20:09:43.323Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_088",
+    "name": "Jaisalmer Wind Park Cluster 1 Turb-3",
+    "type": "WIND",
+    "capacityKw": 6000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-11-20T03:36:26.730Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_089",
+    "name": "Brahmanvel Wind Farm Turb-3",
+    "type": "WIND",
+    "capacityKw": 60000,
+    "location": "Tamil Nadu",
+    "commissionedOn": "2026-03-24T14:19:13.518Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_090",
+    "name": "Kayathar Wind Power Station Turb-3",
+    "type": "WIND",
+    "capacityKw": 36000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-06-26T12:46:39.493Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_091",
+    "name": "Dhalgaon Wind Cluster Turb-3",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-02-23T03:48:19.333Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_092",
+    "name": "Vankusawade Wind Park Turb-3",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-10-09T10:16:50.247Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_093",
+    "name": "Beluguppa Wind Farm Turb-3",
+    "type": "WIND",
+    "capacityKw": 24000,
+    "location": "Gujarat",
+    "commissionedOn": "2025-10-28T00:52:27.173Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_094",
+    "name": "Tuppadahalli Wind Facility Turb-3",
+    "type": "WIND",
+    "capacityKw": 48000,
+    "location": "Maharashtra",
+    "commissionedOn": "2025-12-25T01:56:46.027Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_095",
+    "name": "Kukru Wind Park Turb-3",
+    "type": "WIND",
+    "capacityKw": 12000,
+    "location": "Rajasthan",
+    "commissionedOn": "2026-07-21T22:59:36.241Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_096",
+    "name": "Koyna Stage IV Hydro Project",
+    "type": "HYDRO",
+    "capacityKw": 25000,
+    "location": "Himachal Pradesh",
+    "commissionedOn": "2026-04-01T17:06:00.514Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_097",
+    "name": "Tehri Pumped Storage Hydro",
+    "type": "HYDRO",
+    "capacityKw": 32000,
+    "location": "Himachal Pradesh",
+    "commissionedOn": "2026-08-10T12:21:31.572Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_098",
+    "name": "Sharavathi Hydro Station",
+    "type": "HYDRO",
+    "capacityKw": 32000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-06-26T23:35:08.188Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_099",
+    "name": "Nathpa Jhakri Hydel Unit",
+    "type": "HYDRO",
+    "capacityKw": 25000,
+    "location": "Kerala",
+    "commissionedOn": "2026-05-04T01:20:12.562Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_100",
+    "name": "Bhakra Nangal Hydro Terminal",
+    "type": "HYDRO",
+    "capacityKw": 16000,
+    "location": "Uttarakhand",
+    "commissionedOn": "2025-10-18T15:02:16.137Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_101",
+    "name": "Idukki Arch Dam Hydro",
+    "type": "HYDRO",
+    "capacityKw": 8000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-11-20T16:01:56.804Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_102",
+    "name": "Sardar Sarovar Canal Hydro",
+    "type": "HYDRO",
+    "capacityKw": 25000,
+    "location": "Kerala",
+    "commissionedOn": "2026-05-30T15:58:00.192Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_103",
+    "name": "Baspa II Hydroelectric Project",
+    "type": "HYDRO",
+    "capacityKw": 8000,
+    "location": "Himachal Pradesh",
+    "commissionedOn": "2025-12-07T02:19:03.383Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_104",
+    "name": "Chamera Stage III Hydro",
+    "type": "HYDRO",
+    "capacityKw": 8000,
+    "location": "Uttarakhand",
+    "commissionedOn": "2026-03-07T14:08:36.358Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_105",
+    "name": "Srisailam Right Bank Hydro",
+    "type": "HYDRO",
+    "capacityKw": 25000,
+    "location": "Maharashtra",
+    "commissionedOn": "2026-02-19T16:19:42.126Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_106",
+    "name": "Karcham Wangtoo Hydro Station",
+    "type": "HYDRO",
+    "capacityKw": 65000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-06-07T00:59:03.909Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_107",
+    "name": "Uri II Hydel Plant",
+    "type": "HYDRO",
+    "capacityKw": 32000,
+    "location": "Kerala",
+    "commissionedOn": "2026-03-22T20:10:55.403Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_108",
+    "name": "Koyna Stage IV Hydro Project Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 50000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-12-05T19:51:49.170Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_109",
+    "name": "Tehri Pumped Storage Hydro Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 50000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-07-15T04:30:49.130Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_110",
+    "name": "Sharavathi Hydro Station Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 16000,
+    "location": "Kerala",
+    "commissionedOn": "2025-11-25T15:45:50.515Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_111",
+    "name": "Nathpa Jhakri Hydel Unit Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 32000,
+    "location": "Kerala",
+    "commissionedOn": "2025-10-10T21:06:07.309Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_112",
+    "name": "Bhakra Nangal Hydro Terminal Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 65000,
+    "location": "Kerala",
+    "commissionedOn": "2025-12-04T08:34:48.263Z",
+    "status": "MAINTENANCE"
+  },
+  {
+    "plantId": "PLANT_113",
+    "name": "Idukki Arch Dam Hydro Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 32000,
+    "location": "Maharashtra",
+    "commissionedOn": "2025-10-15T14:07:26.320Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_114",
+    "name": "Sardar Sarovar Canal Hydro Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 65000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-04-07T21:08:20.800Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_115",
+    "name": "Baspa II Hydroelectric Project Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 25000,
+    "location": "Kerala",
+    "commissionedOn": "2026-01-02T21:19:07.059Z",
+    "status": "OPERATIONAL"
+  },
+  {
+    "plantId": "PLANT_116",
+    "name": "Chamera Stage III Hydro Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 50000,
+    "location": "Karnataka",
+    "commissionedOn": "2026-04-03T10:56:34.297Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_117",
+    "name": "Srisailam Right Bank Hydro Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 16000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-11-27T10:18:14.852Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_118",
+    "name": "Karcham Wangtoo Hydro Station Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 16000,
+    "location": "Karnataka",
+    "commissionedOn": "2025-12-01T14:02:29.432Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_119",
+    "name": "Uri II Hydel Plant Gen-2",
+    "type": "HYDRO",
+    "capacityKw": 65000,
+    "location": "Himachal Pradesh",
+    "commissionedOn": "2026-01-06T08:57:37.940Z",
+    "status": "ACTIVE"
+  },
+  {
+    "plantId": "PLANT_120",
+    "name": "Koyna Stage IV Hydro Project Gen-3",
+    "type": "HYDRO",
+    "capacityKw": 50000,
+    "location": "Maharashtra",
+    "commissionedOn": "2025-10-16T17:16:38.441Z",
+    "status": "OPERATIONAL"
+  }
+]

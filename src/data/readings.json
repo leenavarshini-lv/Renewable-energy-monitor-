@@ -1,0 +1,842 @@
+[
+  {
+    "readingId": "READ_001",
+    "meterId": "MTR_001",
+    "date": "2026-04-20T17:01:31.850Z",
+    "importKwh": 170.51,
+    "exportKwh": 388.59
+  },
+  {
+    "readingId": "READ_002",
+    "meterId": "MTR_002",
+    "date": "2026-09-09T06:57:24.535Z",
+    "importKwh": 226.44,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_003",
+    "meterId": "MTR_003",
+    "date": "2026-09-22T17:37:31.022Z",
+    "importKwh": 479.48,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_004",
+    "meterId": "MTR_004",
+    "date": "2026-06-26T13:29:51.379Z",
+    "importKwh": 202.35,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_005",
+    "meterId": "MTR_005",
+    "date": "2026-08-04T14:55:41.425Z",
+    "importKwh": 402.84,
+    "exportKwh": 355.09
+  },
+  {
+    "readingId": "READ_006",
+    "meterId": "MTR_006",
+    "date": "2025-11-22T12:33:52.985Z",
+    "importKwh": 465.92,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_007",
+    "meterId": "MTR_007",
+    "date": "2026-05-03T02:53:33.170Z",
+    "importKwh": 196.91,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_008",
+    "meterId": "MTR_008",
+    "date": "2026-06-23T08:03:57.748Z",
+    "importKwh": 502.17,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_009",
+    "meterId": "MTR_009",
+    "date": "2026-04-14T19:48:52.235Z",
+    "importKwh": 302.27,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_010",
+    "meterId": "MTR_010",
+    "date": "2026-04-20T12:27:49.785Z",
+    "importKwh": 390.38,
+    "exportKwh": 232.91
+  },
+  {
+    "readingId": "READ_011",
+    "meterId": "MTR_011",
+    "date": "2026-03-16T20:13:19.593Z",
+    "importKwh": 503.83,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_012",
+    "meterId": "MTR_012",
+    "date": "2025-10-01T21:33:09.141Z",
+    "importKwh": 426.05,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_013",
+    "meterId": "MTR_013",
+    "date": "2026-05-15T07:36:12.190Z",
+    "importKwh": 507.03,
+    "exportKwh": 138.78
+  },
+  {
+    "readingId": "READ_014",
+    "meterId": "MTR_014",
+    "date": "2026-06-22T06:18:05.541Z",
+    "importKwh": 486.45,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_015",
+    "meterId": "MTR_015",
+    "date": "2025-10-15T06:25:10.455Z",
+    "importKwh": 473.04,
+    "exportKwh": 457.6
+  },
+  {
+    "readingId": "READ_016",
+    "meterId": "MTR_016",
+    "date": "2026-03-08T08:44:32.944Z",
+    "importKwh": 409.24,
+    "exportKwh": 328.28
+  },
+  {
+    "readingId": "READ_017",
+    "meterId": "MTR_017",
+    "date": "2025-12-28T22:55:41.833Z",
+    "importKwh": 268.43,
+    "exportKwh": 460.37
+  },
+  {
+    "readingId": "READ_018",
+    "meterId": "MTR_018",
+    "date": "2025-11-06T19:18:35.125Z",
+    "importKwh": 275.68,
+    "exportKwh": 353.95
+  },
+  {
+    "readingId": "READ_019",
+    "meterId": "MTR_019",
+    "date": "2026-07-27T12:18:18.585Z",
+    "importKwh": 303.76,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_020",
+    "meterId": "MTR_020",
+    "date": "2026-04-21T13:45:09.482Z",
+    "importKwh": 447.55,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_021",
+    "meterId": "MTR_021",
+    "date": "2026-07-05T15:00:04.309Z",
+    "importKwh": 353.26,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_022",
+    "meterId": "MTR_022",
+    "date": "2026-04-09T18:23:03.189Z",
+    "importKwh": 355.63,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_023",
+    "meterId": "MTR_023",
+    "date": "2026-05-09T18:04:14.800Z",
+    "importKwh": 478.35,
+    "exportKwh": 293.65
+  },
+  {
+    "readingId": "READ_024",
+    "meterId": "MTR_024",
+    "date": "2026-01-29T22:14:36.832Z",
+    "importKwh": 329.31,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_025",
+    "meterId": "MTR_025",
+    "date": "2025-10-28T13:34:49.455Z",
+    "importKwh": 235.43,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_026",
+    "meterId": "MTR_026",
+    "date": "2025-10-01T23:13:18.339Z",
+    "importKwh": 472.78,
+    "exportKwh": 109.83
+  },
+  {
+    "readingId": "READ_027",
+    "meterId": "MTR_027",
+    "date": "2025-12-24T14:55:50.273Z",
+    "importKwh": 288.93,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_028",
+    "meterId": "MTR_028",
+    "date": "2025-11-01T08:11:39.495Z",
+    "importKwh": 235.24,
+    "exportKwh": 418.25
+  },
+  {
+    "readingId": "READ_029",
+    "meterId": "MTR_029",
+    "date": "2026-01-03T23:51:53.581Z",
+    "importKwh": 401.99,
+    "exportKwh": 327
+  },
+  {
+    "readingId": "READ_030",
+    "meterId": "MTR_030",
+    "date": "2025-12-22T20:20:20.786Z",
+    "importKwh": 322.27,
+    "exportKwh": 338.91
+  },
+  {
+    "readingId": "READ_031",
+    "meterId": "MTR_031",
+    "date": "2025-11-16T07:51:30.524Z",
+    "importKwh": 462.88,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_032",
+    "meterId": "MTR_032",
+    "date": "2026-06-29T23:13:54.434Z",
+    "importKwh": 361.27,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_033",
+    "meterId": "MTR_033",
+    "date": "2026-06-09T02:20:26.078Z",
+    "importKwh": 343.18,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_034",
+    "meterId": "MTR_034",
+    "date": "2026-05-15T14:25:43.093Z",
+    "importKwh": 343.87,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_035",
+    "meterId": "MTR_035",
+    "date": "2026-09-22T03:57:21.644Z",
+    "importKwh": 484.96,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_036",
+    "meterId": "MTR_036",
+    "date": "2026-07-22T07:03:19.319Z",
+    "importKwh": 489.16,
+    "exportKwh": 120.65
+  },
+  {
+    "readingId": "READ_037",
+    "meterId": "MTR_037",
+    "date": "2025-11-14T21:19:32.340Z",
+    "importKwh": 342.11,
+    "exportKwh": 324.9
+  },
+  {
+    "readingId": "READ_038",
+    "meterId": "MTR_038",
+    "date": "2026-03-19T14:12:07.173Z",
+    "importKwh": 258.21,
+    "exportKwh": 369.46
+  },
+  {
+    "readingId": "READ_039",
+    "meterId": "MTR_039",
+    "date": "2026-01-14T18:19:40.336Z",
+    "importKwh": 237.46,
+    "exportKwh": 287.24
+  },
+  {
+    "readingId": "READ_040",
+    "meterId": "MTR_040",
+    "date": "2026-07-06T20:48:07.108Z",
+    "importKwh": 486.73,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_041",
+    "meterId": "MTR_041",
+    "date": "2025-12-08T10:24:20.175Z",
+    "importKwh": 374.85,
+    "exportKwh": 106.78
+  },
+  {
+    "readingId": "READ_042",
+    "meterId": "MTR_042",
+    "date": "2026-09-13T13:55:59.482Z",
+    "importKwh": 318.75,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_043",
+    "meterId": "MTR_043",
+    "date": "2026-09-04T04:25:38.804Z",
+    "importKwh": 310.41,
+    "exportKwh": 245.02
+  },
+  {
+    "readingId": "READ_044",
+    "meterId": "MTR_044",
+    "date": "2025-10-09T04:33:23.908Z",
+    "importKwh": 365.48,
+    "exportKwh": 244.62
+  },
+  {
+    "readingId": "READ_045",
+    "meterId": "MTR_045",
+    "date": "2025-10-05T14:05:59.427Z",
+    "importKwh": 508.77,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_046",
+    "meterId": "MTR_046",
+    "date": "2026-07-24T14:35:37.893Z",
+    "importKwh": 291.61,
+    "exportKwh": 256.64
+  },
+  {
+    "readingId": "READ_047",
+    "meterId": "MTR_047",
+    "date": "2025-11-28T14:49:22.519Z",
+    "importKwh": 399.87,
+    "exportKwh": 172.52
+  },
+  {
+    "readingId": "READ_048",
+    "meterId": "MTR_048",
+    "date": "2026-09-26T10:28:55.870Z",
+    "importKwh": 430.92,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_049",
+    "meterId": "MTR_049",
+    "date": "2025-11-09T17:56:48.877Z",
+    "importKwh": 256.27,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_050",
+    "meterId": "MTR_050",
+    "date": "2026-08-10T09:18:58.885Z",
+    "importKwh": 293.15,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_051",
+    "meterId": "MTR_051",
+    "date": "2025-10-17T20:36:38.220Z",
+    "importKwh": 389.84,
+    "exportKwh": 224.72
+  },
+  {
+    "readingId": "READ_052",
+    "meterId": "MTR_052",
+    "date": "2026-06-20T20:23:36.167Z",
+    "importKwh": 199.42,
+    "exportKwh": 254.54
+  },
+  {
+    "readingId": "READ_053",
+    "meterId": "MTR_053",
+    "date": "2025-12-25T20:56:05.453Z",
+    "importKwh": 168.67,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_054",
+    "meterId": "MTR_054",
+    "date": "2026-04-05T14:33:55.475Z",
+    "importKwh": 231.04,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_055",
+    "meterId": "MTR_055",
+    "date": "2026-08-15T14:20:56.126Z",
+    "importKwh": 194.86,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_056",
+    "meterId": "MTR_056",
+    "date": "2025-10-20T21:24:44.193Z",
+    "importKwh": 419.84,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_057",
+    "meterId": "MTR_057",
+    "date": "2026-08-09T22:35:46.148Z",
+    "importKwh": 161.29,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_058",
+    "meterId": "MTR_058",
+    "date": "2026-07-30T19:22:46.979Z",
+    "importKwh": 245.8,
+    "exportKwh": 114.52
+  },
+  {
+    "readingId": "READ_059",
+    "meterId": "MTR_059",
+    "date": "2026-07-12T19:46:16.134Z",
+    "importKwh": 517.77,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_060",
+    "meterId": "MTR_060",
+    "date": "2026-08-26T15:42:38.354Z",
+    "importKwh": 316.58,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_061",
+    "meterId": "MTR_061",
+    "date": "2026-09-26T22:49:32.912Z",
+    "importKwh": 4540.99,
+    "exportKwh": 2544.44
+  },
+  {
+    "readingId": "READ_062",
+    "meterId": "MTR_062",
+    "date": "2026-02-21T04:54:49.800Z",
+    "importKwh": 5793.14,
+    "exportKwh": 2825.14
+  },
+  {
+    "readingId": "READ_063",
+    "meterId": "MTR_063",
+    "date": "2026-03-07T02:26:47.495Z",
+    "importKwh": 2890.29,
+    "exportKwh": 3848.08
+  },
+  {
+    "readingId": "READ_064",
+    "meterId": "MTR_064",
+    "date": "2026-02-01T09:59:22.012Z",
+    "importKwh": 6295.28,
+    "exportKwh": 1214.44
+  },
+  {
+    "readingId": "READ_065",
+    "meterId": "MTR_065",
+    "date": "2026-04-30T04:32:52.756Z",
+    "importKwh": 1655.3,
+    "exportKwh": 4018.55
+  },
+  {
+    "readingId": "READ_066",
+    "meterId": "MTR_066",
+    "date": "2025-10-14T11:16:27.153Z",
+    "importKwh": 1814.62,
+    "exportKwh": 2457.86
+  },
+  {
+    "readingId": "READ_067",
+    "meterId": "MTR_067",
+    "date": "2026-04-18T21:57:32.671Z",
+    "importKwh": 5777.99,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_068",
+    "meterId": "MTR_068",
+    "date": "2025-10-05T23:08:34.379Z",
+    "importKwh": 4114.18,
+    "exportKwh": 2848.06
+  },
+  {
+    "readingId": "READ_069",
+    "meterId": "MTR_069",
+    "date": "2025-12-13T01:22:08.710Z",
+    "importKwh": 5777.68,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_070",
+    "meterId": "MTR_070",
+    "date": "2026-09-07T02:08:44.159Z",
+    "importKwh": 2348.54,
+    "exportKwh": 4213.7
+  },
+  {
+    "readingId": "READ_071",
+    "meterId": "MTR_071",
+    "date": "2025-10-29T09:15:36.099Z",
+    "importKwh": 4290.26,
+    "exportKwh": 3618.01
+  },
+  {
+    "readingId": "READ_072",
+    "meterId": "MTR_072",
+    "date": "2026-04-18T20:08:17.347Z",
+    "importKwh": 3629.67,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_073",
+    "meterId": "MTR_073",
+    "date": "2026-07-20T09:02:48.940Z",
+    "importKwh": 6245.5,
+    "exportKwh": 2471.58
+  },
+  {
+    "readingId": "READ_074",
+    "meterId": "MTR_074",
+    "date": "2026-09-13T09:38:55.939Z",
+    "importKwh": 3477,
+    "exportKwh": 662.89
+  },
+  {
+    "readingId": "READ_075",
+    "meterId": "MTR_075",
+    "date": "2025-11-16T04:59:35.011Z",
+    "importKwh": 5208.35,
+    "exportKwh": 3322.34
+  },
+  {
+    "readingId": "READ_076",
+    "meterId": "MTR_076",
+    "date": "2026-08-06T08:29:57.295Z",
+    "importKwh": 6762.23,
+    "exportKwh": 2769.5
+  },
+  {
+    "readingId": "READ_077",
+    "meterId": "MTR_077",
+    "date": "2025-12-29T19:54:04.494Z",
+    "importKwh": 2673.24,
+    "exportKwh": 3966.92
+  },
+  {
+    "readingId": "READ_078",
+    "meterId": "MTR_078",
+    "date": "2026-03-29T00:42:09.022Z",
+    "importKwh": 2296.78,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_079",
+    "meterId": "MTR_079",
+    "date": "2026-02-21T11:09:08.428Z",
+    "importKwh": 6375.1,
+    "exportKwh": 4031.88
+  },
+  {
+    "readingId": "READ_080",
+    "meterId": "MTR_080",
+    "date": "2026-03-24T03:35:05.880Z",
+    "importKwh": 5841.45,
+    "exportKwh": 4271.87
+  },
+  {
+    "readingId": "READ_081",
+    "meterId": "MTR_081",
+    "date": "2026-07-26T14:41:03.491Z",
+    "importKwh": 3315.67,
+    "exportKwh": 2212.41
+  },
+  {
+    "readingId": "READ_082",
+    "meterId": "MTR_082",
+    "date": "2026-08-05T21:04:46.064Z",
+    "importKwh": 2351.88,
+    "exportKwh": 514.71
+  },
+  {
+    "readingId": "READ_083",
+    "meterId": "MTR_083",
+    "date": "2026-03-04T11:45:17.673Z",
+    "importKwh": 3489.58,
+    "exportKwh": 2501.67
+  },
+  {
+    "readingId": "READ_084",
+    "meterId": "MTR_084",
+    "date": "2026-09-30T21:46:20.709Z",
+    "importKwh": 3958.81,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_085",
+    "meterId": "MTR_085",
+    "date": "2025-10-25T05:20:06.573Z",
+    "importKwh": 2491.95,
+    "exportKwh": 1168.39
+  },
+  {
+    "readingId": "READ_086",
+    "meterId": "MTR_086",
+    "date": "2025-11-02T23:24:54.315Z",
+    "importKwh": 1392.42,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_087",
+    "meterId": "MTR_087",
+    "date": "2025-11-29T21:02:06.875Z",
+    "importKwh": 2733.59,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_088",
+    "meterId": "MTR_088",
+    "date": "2025-11-22T11:44:45.328Z",
+    "importKwh": 4454.18,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_089",
+    "meterId": "MTR_089",
+    "date": "2026-01-17T15:31:21.284Z",
+    "importKwh": 4377.21,
+    "exportKwh": 1510.38
+  },
+  {
+    "readingId": "READ_090",
+    "meterId": "MTR_090",
+    "date": "2026-01-09T05:27:35.107Z",
+    "importKwh": 6434.26,
+    "exportKwh": 1212.4
+  },
+  {
+    "readingId": "READ_091",
+    "meterId": "MTR_091",
+    "date": "2025-10-28T09:57:48.419Z",
+    "importKwh": 1393.77,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_092",
+    "meterId": "MTR_092",
+    "date": "2025-10-16T00:24:54.787Z",
+    "importKwh": 5813.54,
+    "exportKwh": 4117.41
+  },
+  {
+    "readingId": "READ_093",
+    "meterId": "MTR_093",
+    "date": "2026-03-30T17:56:28.688Z",
+    "importKwh": 2233.89,
+    "exportKwh": 3929.01
+  },
+  {
+    "readingId": "READ_094",
+    "meterId": "MTR_094",
+    "date": "2026-06-15T16:03:58.284Z",
+    "importKwh": 6240.85,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_095",
+    "meterId": "MTR_095",
+    "date": "2025-10-21T02:02:37.381Z",
+    "importKwh": 3301.19,
+    "exportKwh": 1400.42
+  },
+  {
+    "readingId": "READ_096",
+    "meterId": "MTR_096",
+    "date": "2026-08-07T12:17:12.567Z",
+    "importKwh": 1924.42,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_097",
+    "meterId": "MTR_097",
+    "date": "2026-01-12T22:09:36.083Z",
+    "importKwh": 14088.57,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_098",
+    "meterId": "MTR_098",
+    "date": "2026-05-30T11:28:45.685Z",
+    "importKwh": 35978.8,
+    "exportKwh": 12650.3
+  },
+  {
+    "readingId": "READ_099",
+    "meterId": "MTR_099",
+    "date": "2026-09-01T12:49:33.277Z",
+    "importKwh": 23599.59,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_100",
+    "meterId": "MTR_100",
+    "date": "2025-11-06T04:24:12.576Z",
+    "importKwh": 31144.63,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_101",
+    "meterId": "MTR_101",
+    "date": "2026-08-20T00:45:19.839Z",
+    "importKwh": 27612.24,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_102",
+    "meterId": "MTR_102",
+    "date": "2026-08-23T06:41:01.503Z",
+    "importKwh": 25693.75,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_103",
+    "meterId": "MTR_103",
+    "date": "2026-02-22T20:11:06.258Z",
+    "importKwh": 41111.29,
+    "exportKwh": 20443.77
+  },
+  {
+    "readingId": "READ_104",
+    "meterId": "MTR_104",
+    "date": "2026-08-11T02:07:19.114Z",
+    "importKwh": 9943.25,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_105",
+    "meterId": "MTR_105",
+    "date": "2026-04-30T12:02:27.385Z",
+    "importKwh": 20945.5,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_106",
+    "meterId": "MTR_106",
+    "date": "2026-06-15T13:10:13.862Z",
+    "importKwh": 17556.08,
+    "exportKwh": 20370.01
+  },
+  {
+    "readingId": "READ_107",
+    "meterId": "MTR_107",
+    "date": "2026-06-13T20:42:11.919Z",
+    "importKwh": 20302.99,
+    "exportKwh": 19994.86
+  },
+  {
+    "readingId": "READ_108",
+    "meterId": "MTR_108",
+    "date": "2025-12-15T03:24:54.287Z",
+    "importKwh": 41817.79,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_109",
+    "meterId": "MTR_109",
+    "date": "2025-11-25T19:25:23.064Z",
+    "importKwh": 16675.29,
+    "exportKwh": 18250.59
+  },
+  {
+    "readingId": "READ_110",
+    "meterId": "MTR_110",
+    "date": "2026-07-21T13:31:40.340Z",
+    "importKwh": 20501.6,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_111",
+    "meterId": "MTR_111",
+    "date": "2025-11-01T11:10:52.478Z",
+    "importKwh": 39485.31,
+    "exportKwh": 17129.48
+  },
+  {
+    "readingId": "READ_112",
+    "meterId": "MTR_112",
+    "date": "2026-03-05T21:40:40.562Z",
+    "importKwh": 38195.53,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_113",
+    "meterId": "MTR_113",
+    "date": "2026-04-15T03:26:16.858Z",
+    "importKwh": 25944.84,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_114",
+    "meterId": "MTR_114",
+    "date": "2025-11-05T14:34:46.201Z",
+    "importKwh": 39510.65,
+    "exportKwh": 3074.97
+  },
+  {
+    "readingId": "READ_115",
+    "meterId": "MTR_115",
+    "date": "2026-05-06T20:57:32.459Z",
+    "importKwh": 35656.9,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_116",
+    "meterId": "MTR_116",
+    "date": "2025-10-12T04:35:02.867Z",
+    "importKwh": 18962.14,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_117",
+    "meterId": "MTR_117",
+    "date": "2026-04-18T13:42:49.414Z",
+    "importKwh": 24932.68,
+    "exportKwh": 8494.82
+  },
+  {
+    "readingId": "READ_118",
+    "meterId": "MTR_118",
+    "date": "2026-09-12T14:58:50.336Z",
+    "importKwh": 36315.48,
+    "exportKwh": 0
+  },
+  {
+    "readingId": "READ_119",
+    "meterId": "MTR_119",
+    "date": "2026-03-22T00:47:16.338Z",
+    "importKwh": 38028.85,
+    "exportKwh": 7811.47
+  },
+  {
+    "readingId": "READ_120",
+    "meterId": "MTR_120",
+    "date": "2025-11-25T15:00:50.158Z",
+    "importKwh": 12568.92,
+    "exportKwh": 0
+  }
+]

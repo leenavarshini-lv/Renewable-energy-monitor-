@@ -1,0 +1,237 @@
+{
+  "entities": {
+    "Plant": {
+      "title": "Plant",
+      "description": "Renewable power generation plant",
+      "type": "object",
+      "properties": {
+        "plantId": { "type": "string", "description": "Unique plant identifier" },
+        "name": { "type": "string", "description": "Plant designation" },
+        "type": { "type": "string", "enum": ["SOLAR", "WIND", "HYDRO"] },
+        "capacityKw": { "type": "number", "description": "Nameplate capacity in kilowatts" },
+        "location": { "type": "string", "description": "Indian state where facility is installed" },
+        "commissionedOn": { "type": "string", "format": "date-time" },
+        "status": { "type": "string", "enum": ["ACTIVE", "OPERATIONAL", "MAINTENANCE"] }
+      },
+      "required": ["plantId", "name", "type", "capacityKw", "location", "commissionedOn", "status"]
+    },
+    "Equipment": {
+      "title": "Equipment",
+      "description": "Component apparatus installed at a power plant",
+      "type": "object",
+      "properties": {
+        "equipmentId": { "type": "string" },
+        "plantId": { "type": "string" },
+        "equipType": { "type": "string" },
+        "model": { "type": "string" },
+        "installedOn": { "type": "string", "format": "date-time" },
+        "warrantyEnd": { "type": "string", "format": "date-time" },
+        "health": { "type": "string", "enum": ["GOOD", "WARNING", "FAULTY"] }
+      },
+      "required": ["equipmentId", "plantId", "equipType", "model", "installedOn", "warrantyEnd", "health"]
+    },
+    "Battery": {
+      "title": "Battery",
+      "description": "Battery energy storage system (BESS) unit",
+      "type": "object",
+      "properties": {
+        "batteryId": { "type": "string" },
+        "plantId": { "type": "string" },
+        "capacityKwh": { "type": "number" },
+        "chargePct": { "type": "number" },
+        "cycles": { "type": "number" }
+      },
+      "required": ["batteryId", "plantId", "capacityKwh", "chargePct", "cycles"]
+    },
+    "Generation": {
+      "title": "Generation",
+      "description": "Power production log record",
+      "type": "object",
+      "properties": {
+        "genId": { "type": "string" },
+        "plantId": { "type": "string" },
+        "date": { "type": "string", "format": "date-time" },
+        "unitsKwh": { "type": "number" }
+      },
+      "required": ["genId", "plantId", "date", "unitsKwh"]
+    },
+    "Consumer": {
+      "title": "Consumer",
+      "description": "Electricity consumer connected to the grid",
+      "type": "object",
+      "properties": {
+        "consumerId": { "type": "string" },
+        "name": { "type": "string" },
+        "category": { "type": "string", "enum": ["HOUSEHOLD", "COMMERCIAL", "INDUSTRIAL"] },
+        "address": { "type": "string" },
+        "hasSolar": { "type": "boolean" }
+      },
+      "required": ["consumerId", "name", "category", "address", "hasSolar"]
+    },
+    "Meter": {
+      "title": "Meter",
+      "description": "Smart bidirectional meter at consumer premises",
+      "type": "object",
+      "properties": {
+        "meterId": { "type": "string" },
+        "consumerId": { "type": "string" },
+        "installedOn": { "type": "string", "format": "date-time" }
+      },
+      "required": ["meterId", "consumerId", "installedOn"]
+    },
+    "Reading": {
+      "title": "Reading",
+      "description": "Interval import and export meter reading",
+      "type": "object",
+      "properties": {
+        "readingId": { "type": "string" },
+        "meterId": { "type": "string" },
+        "date": { "type": "string", "format": "date-time" },
+        "importKwh": { "type": "number" },
+        "exportKwh": { "type": "number" }
+      },
+      "required": ["readingId", "meterId", "date", "importKwh", "exportKwh"]
+    },
+    "Bill": {
+      "title": "Bill",
+      "description": "Discom electricity settlement bill",
+      "type": "object",
+      "properties": {
+        "billId": { "type": "string" },
+        "consumerId": { "type": "string" },
+        "meterId": { "type": "string" },
+        "billMonth": { "type": "string" },
+        "importKwh": { "type": "number" },
+        "exportKwh": { "type": "number" },
+        "creditInKwh": { "type": "number" },
+        "netKwh": { "type": "number" },
+        "creditOutKwh": { "type": "number" },
+        "amount": { "type": "number" },
+        "status": { "type": "string", "enum": ["PAID", "UNPAID"] }
+      },
+      "required": ["billId", "consumerId", "meterId", "billMonth", "importKwh", "exportKwh", "creditInKwh", "netKwh", "creditOutKwh", "amount", "status"]
+    },
+    "Alert": {
+      "title": "Alert",
+      "description": "Operational event or fault alert",
+      "type": "object",
+      "properties": {
+        "alertId": { "type": "string" },
+        "type": { "type": "string", "enum": ["LOW_BATTERY", "LOW_OUTPUT", "WARRANTY_EXPIRY"] },
+        "refId": { "type": "string" },
+        "message": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "resolved": { "type": "boolean" }
+      },
+      "required": ["alertId", "type", "refId", "message", "createdAt", "resolved"]
+    },
+    "Tariff": {
+      "title": "Tariff",
+      "description": "Discom electricity tariff schedule per consumer category",
+      "type": "object",
+      "properties": {
+        "tariffId": { "type": "string" },
+        "category": { "type": "string", "enum": ["HOUSEHOLD", "COMMERCIAL", "INDUSTRIAL"] },
+        "importRate": { "type": "number" }
+      },
+      "required": ["tariffId", "category", "importRate"]
+    },
+    "Config": {
+      "title": "Config",
+      "description": "System parameters and alert thresholds",
+      "type": "object",
+      "properties": {
+        "key": { "type": "string" },
+        "value": { "type": "number" },
+        "note": { "type": "string" }
+      },
+      "required": ["key", "value", "note"]
+    },
+    "User": {
+      "title": "User",
+      "description": "System user account with role-based access",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "role": { "type": "string", "enum": ["ADMIN", "OPERATOR", "CONSUMER"] },
+        "consumerId": { "type": "string" }
+      },
+      "required": ["userId", "name", "email", "role"]
+    },
+    "AuditLog": {
+      "title": "AuditLog",
+      "description": "Audit record for tariff and billing modifications",
+      "type": "object",
+      "properties": {
+        "logId": { "type": "string" },
+        "action": { "type": "string" },
+        "performedBy": { "type": "string" },
+        "actorName": { "type": "string" },
+        "userRole": { "type": "string" },
+        "targetEntity": { "type": "string" },
+        "targetId": { "type": "string" },
+        "previousValue": { "type": "string" },
+        "newValue": { "type": "string" },
+        "reason": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["logId", "action", "performedBy", "actorName", "userRole", "targetEntity", "targetId", "previousValue", "newValue", "reason", "timestamp"]
+    }
+  },
+  "firestore": {
+    "/plants/{plantId}": {
+      "schema": "Plant",
+      "description": "Renewable energy power plants"
+    },
+    "/equipment/{equipmentId}": {
+      "schema": "Equipment",
+      "description": "Plant equipment and machinery"
+    },
+    "/batteries/{batteryId}": {
+      "schema": "Battery",
+      "description": "Battery energy storage systems"
+    },
+    "/generation/{genId}": {
+      "schema": "Generation",
+      "description": "Generation logs and meter telemetry"
+    },
+    "/consumers/{consumerId}": {
+      "schema": "Consumer",
+      "description": "Energy consumers and prosumers"
+    },
+    "/meters/{meterId}": {
+      "schema": "Meter",
+      "description": "Consumer smart meters"
+    },
+    "/readings/{readingId}": {
+      "schema": "Reading",
+      "description": "Import/Export meter intervals"
+    },
+    "/bills/{billId}": {
+      "schema": "Bill",
+      "description": "Net metering discom bills"
+    },
+    "/alerts/{alertId}": {
+      "schema": "Alert",
+      "description": "Operational and maintenance alerts"
+    },
+    "/tariffs/{tariffId}": {
+      "schema": "Tariff",
+      "description": "Billing rates per consumer category"
+    },
+    "/config/{key}": {
+      "schema": "Config",
+      "description": "System simulation and threshold parameters"
+    },
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User accounts with assigned roles"
+    },
+    "/auditLogs/{logId}": {
+      "schema": "AuditLog",
+      "description": "Audit trail for system modifications"
+    }
+  }
+}

@@ -1,0 +1,1118 @@
+[
+  {
+    "userId": "USER_ADMIN_01",
+    "name": "Leena Varshini",
+    "email": "leenavarshini@gmail.com",
+    "role": "ADMIN",
+    "consumerId": null,
+    "department": "State Electricity Regulatory Commission",
+    "assignedSector": "All Sectors"
+  },
+  {
+    "userId": "USER_ADMIN_02",
+    "name": "Dr. Ramesh Raman",
+    "email": "r.raman@state-discom.gov.in",
+    "role": "ADMIN",
+    "consumerId": null,
+    "department": "Discom Tariff & Net-Metering Authority",
+    "assignedSector": "State Grid"
+  },
+  {
+    "userId": "USER_OPERATOR_01",
+    "name": "Vikram Sethi",
+    "email": "v.sethi@grid-operations.in",
+    "role": "OPERATOR",
+    "consumerId": null,
+    "department": "SCADA Transmission & Plant Dispatch",
+    "assignedSector": "Northern Renewable Corridor"
+  },
+  {
+    "userId": "USER_OPERATOR_02",
+    "name": "Ananya Deshmukh",
+    "email": "a.deshmukh@grid-operations.in",
+    "role": "OPERATOR",
+    "consumerId": null,
+    "department": "Substation BESS & Inverter Monitoring",
+    "assignedSector": "Western Grid Hub"
+  },
+  {
+    "userId": "USER_CONS_001",
+    "name": "Pari Chopra",
+    "email": "pari.chopra@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_001",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_002",
+    "name": "Sai Joshi",
+    "email": "sai.joshi@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_002",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_003",
+    "name": "Saanvi Pillai",
+    "email": "saanvi.pillai@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_003",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_004",
+    "name": "Aarav Kulkarni",
+    "email": "aarav.kulkarni@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_004",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_005",
+    "name": "Harish Joshi",
+    "email": "harish.joshi@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_005",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_006",
+    "name": "Suresh Chatterjee",
+    "email": "suresh.chatterjee@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_006",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_007",
+    "name": "Aditya Nair",
+    "email": "aditya.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_007",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_008",
+    "name": "Alok Verma",
+    "email": "alok.verma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_008",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_009",
+    "name": "Sunita Sharma",
+    "email": "sunita.sharma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_009",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_010",
+    "name": "Manoj Rao",
+    "email": "manoj.rao@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_010",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_011",
+    "name": "Suresh Nair",
+    "email": "suresh.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_011",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_012",
+    "name": "Sunita Malhotra",
+    "email": "sunita.malhotra@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_012",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_013",
+    "name": "Ishaan Verma",
+    "email": "ishaan.verma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_013",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_014",
+    "name": "Suresh Deshmukh",
+    "email": "suresh.deshmukh@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_014",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_015",
+    "name": "Ishaan Nair",
+    "email": "ishaan.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_015",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_016",
+    "name": "Harish Reddy",
+    "email": "harish.reddy@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_016",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_017",
+    "name": "Reyansh Singh",
+    "email": "reyansh.singh@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_017",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_018",
+    "name": "Kavya Verma",
+    "email": "kavya.verma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_018",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_019",
+    "name": "Reyansh Reddy",
+    "email": "reyansh.reddy@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_019",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_020",
+    "name": "Girish Malhotra",
+    "email": "girish.malhotra@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_020",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_021",
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_021",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_022",
+    "name": "Ramesh Verma",
+    "email": "ramesh.verma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_022",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_023",
+    "name": "Saanvi Gowda",
+    "email": "saanvi.gowda@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_023",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_024",
+    "name": "Reyansh Kulkarni",
+    "email": "reyansh.kulkarni@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_024",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_025",
+    "name": "Girish Bose",
+    "email": "girish.bose@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_025",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_026",
+    "name": "Saanvi Menon",
+    "email": "saanvi.menon@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_026",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_027",
+    "name": "Aadhya Patel",
+    "email": "aadhya.patel@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_027",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_028",
+    "name": "Krishna Malhotra",
+    "email": "krishna.malhotra@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_028",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_029",
+    "name": "Saanvi Gowda",
+    "email": "saanvi.gowda@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_029",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_030",
+    "name": "Ishaan Bose",
+    "email": "ishaan.bose@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_030",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_031",
+    "name": "Ishaan Singh",
+    "email": "ishaan.singh@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_031",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_032",
+    "name": "Kavya Menon",
+    "email": "kavya.menon@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_032",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_033",
+    "name": "Diya Rao",
+    "email": "diya.rao@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_033",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_034",
+    "name": "Reyansh Rao",
+    "email": "reyansh.rao@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_034",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_035",
+    "name": "Ananya Nair",
+    "email": "ananya.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_035",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_036",
+    "name": "Ramesh Deshmukh",
+    "email": "ramesh.deshmukh@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_036",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_037",
+    "name": "Suresh Chopra",
+    "email": "suresh.chopra@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_037",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_038",
+    "name": "Pari Gowda",
+    "email": "pari.gowda@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_038",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_039",
+    "name": "Pari Verma",
+    "email": "pari.verma@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_039",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_040",
+    "name": "Pari Kulkarni",
+    "email": "pari.kulkarni@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_040",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_041",
+    "name": "Kavya Pillai",
+    "email": "kavya.pillai@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_041",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_042",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_042",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_043",
+    "name": "Vivaan Joshi",
+    "email": "vivaan.joshi@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_043",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_044",
+    "name": "Rajesh Reddy",
+    "email": "rajesh.reddy@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_044",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_045",
+    "name": "Krishna Nair",
+    "email": "krishna.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_045",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_046",
+    "name": "Meera Rao",
+    "email": "meera.rao@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_046",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_047",
+    "name": "Ishaan Mehta",
+    "email": "ishaan.mehta@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_047",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_048",
+    "name": "Rajesh Chatterjee",
+    "email": "rajesh.chatterjee@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_048",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_049",
+    "name": "Nitin Nair",
+    "email": "nitin.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_049",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_050",
+    "name": "Ananya Kulkarni",
+    "email": "ananya.kulkarni@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_050",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_051",
+    "name": "Vihaan Menon",
+    "email": "vihaan.menon@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_051",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_052",
+    "name": "Riya Joshi",
+    "email": "riya.joshi@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_052",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_053",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_053",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_054",
+    "name": "Vivaan Gowda",
+    "email": "vivaan.gowda@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_054",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_055",
+    "name": "Reyansh Nair",
+    "email": "reyansh.nair@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_055",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_056",
+    "name": "Suresh Pillai",
+    "email": "suresh.pillai@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_056",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_057",
+    "name": "Ayaan Menon",
+    "email": "ayaan.menon@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_057",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_058",
+    "name": "Aadhya Joshi",
+    "email": "aadhya.joshi@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_058",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_059",
+    "name": "Vikram Gupta",
+    "email": "vikram.gupta@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_059",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_060",
+    "name": "Manoj Singh",
+    "email": "manoj.singh@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_060",
+    "department": "Retail Consumer",
+    "assignedSector": "HOUSEHOLD"
+  },
+  {
+    "userId": "USER_CONS_061",
+    "name": "Nexus IT Hub",
+    "email": "nexus.it.hub@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_061",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_062",
+    "name": "Prestige Tech Center",
+    "email": "prestige.tech.center@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_062",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_063",
+    "name": "Apollo Multispecialty Clinic",
+    "email": "apollo.multispecialty.clinic@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_063",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_064",
+    "name": "Phoenix Grand Galleria",
+    "email": "phoenix.grand.galleria@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_064",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_065",
+    "name": "Cyber Gateway Towers",
+    "email": "cyber.gateway.towers@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_065",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_066",
+    "name": "Mindspace Business Complex",
+    "email": "mindspace.business.complex@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_066",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_067",
+    "name": "Emerald Regency Hotel",
+    "email": "emerald.regency.hotel@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_067",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_068",
+    "name": "Fortis Diagnostic Center",
+    "email": "fortis.diagnostic.center@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_068",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_069",
+    "name": "World Trade Center Block-B",
+    "email": "world.trade.center.block.b@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_069",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_070",
+    "name": "Kalyan Hypermarket",
+    "email": "kalyan.hypermarket@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_070",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_071",
+    "name": "Decathlon Flagship Store",
+    "email": "decathlon.flagship.store@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_071",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_072",
+    "name": "Titan Corporate Office",
+    "email": "titan.corporate.office@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_072",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_073",
+    "name": "Manipal Health Clinic",
+    "email": "manipal.health.clinic@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_073",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_074",
+    "name": "Radisson Blu Express",
+    "email": "radisson.blu.express@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_074",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_075",
+    "name": "Lulu Shopping Hub",
+    "email": "lulu.shopping.hub@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_075",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_076",
+    "name": "Nexus IT Hub",
+    "email": "nexus.it.hub@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_076",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_077",
+    "name": "Prestige Tech Center",
+    "email": "prestige.tech.center@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_077",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_078",
+    "name": "Apollo Multispecialty Clinic",
+    "email": "apollo.multispecialty.clinic@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_078",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_079",
+    "name": "Phoenix Grand Galleria",
+    "email": "phoenix.grand.galleria@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_079",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_080",
+    "name": "Cyber Gateway Towers",
+    "email": "cyber.gateway.towers@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_080",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_081",
+    "name": "Mindspace Business Complex",
+    "email": "mindspace.business.complex@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_081",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_082",
+    "name": "Emerald Regency Hotel",
+    "email": "emerald.regency.hotel@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_082",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_083",
+    "name": "Fortis Diagnostic Center",
+    "email": "fortis.diagnostic.center@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_083",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_084",
+    "name": "World Trade Center Block-B",
+    "email": "world.trade.center.block.b@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_084",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_085",
+    "name": "Kalyan Hypermarket",
+    "email": "kalyan.hypermarket@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_085",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_086",
+    "name": "Decathlon Flagship Store",
+    "email": "decathlon.flagship.store@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_086",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_087",
+    "name": "Titan Corporate Office",
+    "email": "titan.corporate.office@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_087",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_088",
+    "name": "Manipal Health Clinic",
+    "email": "manipal.health.clinic@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_088",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_089",
+    "name": "Radisson Blu Express",
+    "email": "radisson.blu.express@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_089",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_090",
+    "name": "Lulu Shopping Hub",
+    "email": "lulu.shopping.hub@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_090",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_091",
+    "name": "Nexus IT Hub",
+    "email": "nexus.it.hub@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_091",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_092",
+    "name": "Prestige Tech Center",
+    "email": "prestige.tech.center@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_092",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_093",
+    "name": "Apollo Multispecialty Clinic",
+    "email": "apollo.multispecialty.clinic@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_093",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_094",
+    "name": "Phoenix Grand Galleria",
+    "email": "phoenix.grand.galleria@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_094",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_095",
+    "name": "Cyber Gateway Towers",
+    "email": "cyber.gateway.towers@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_095",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_096",
+    "name": "Mindspace Business Complex",
+    "email": "mindspace.business.complex@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_096",
+    "department": "Retail Consumer",
+    "assignedSector": "COMMERCIAL"
+  },
+  {
+    "userId": "USER_CONS_097",
+    "name": "Kaveri Spinning & Weaving Mills",
+    "email": "kaveri.spinning...weaving.mills@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_097",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_098",
+    "name": "Bharat Heavy Forgings Ltd",
+    "email": "bharat.heavy.forgings.ltd@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_098",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_099",
+    "name": "Sundaram Precision Auto Components",
+    "email": "sundaram.precision.auto.components@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_099",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_100",
+    "name": "Deccan Electro-Steel Foundry",
+    "email": "deccan.electro.steel.foundry@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_100",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_101",
+    "name": "Godavari Agro Food Processing",
+    "email": "godavari.agro.food.processing@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_101",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_102",
+    "name": "Gujarat Polymer & Resins Plant",
+    "email": "gujarat.polymer...resins.plant@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_102",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_103",
+    "name": "Vindhya Chemical Synthetics",
+    "email": "vindhya.chemical.synthetics@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_103",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_104",
+    "name": "Coromandel Glass Works",
+    "email": "coromandel.glass.works@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_104",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_105",
+    "name": "Kirloskar Pump Assembly Works",
+    "email": "kirloskar.pump.assembly.works@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_105",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_106",
+    "name": "Tata AutoComp Casting Div",
+    "email": "tata.autocomp.casting.div@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_106",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_107",
+    "name": "Birla Carbon Industries",
+    "email": "birla.carbon.industries@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_107",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_108",
+    "name": "Jindal Extrusions Unit 4",
+    "email": "jindal.extrusions.unit..@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_108",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_109",
+    "name": "Kaveri Spinning & Weaving Mills",
+    "email": "kaveri.spinning...weaving.mills@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_109",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_110",
+    "name": "Bharat Heavy Forgings Ltd",
+    "email": "bharat.heavy.forgings.ltd@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_110",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_111",
+    "name": "Sundaram Precision Auto Components",
+    "email": "sundaram.precision.auto.components@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_111",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_112",
+    "name": "Deccan Electro-Steel Foundry",
+    "email": "deccan.electro.steel.foundry@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_112",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_113",
+    "name": "Godavari Agro Food Processing",
+    "email": "godavari.agro.food.processing@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_113",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_114",
+    "name": "Gujarat Polymer & Resins Plant",
+    "email": "gujarat.polymer...resins.plant@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_114",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_115",
+    "name": "Vindhya Chemical Synthetics",
+    "email": "vindhya.chemical.synthetics@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_115",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_116",
+    "name": "Coromandel Glass Works",
+    "email": "coromandel.glass.works@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_116",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_117",
+    "name": "Kirloskar Pump Assembly Works",
+    "email": "kirloskar.pump.assembly.works@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_117",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_118",
+    "name": "Tata AutoComp Casting Div",
+    "email": "tata.autocomp.casting.div@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_118",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_119",
+    "name": "Birla Carbon Industries",
+    "email": "birla.carbon.industries@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_119",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  },
+  {
+    "userId": "USER_CONS_120",
+    "name": "Jindal Extrusions Unit 4",
+    "email": "jindal.extrusions.unit..@consumer-portal.in",
+    "role": "CONSUMER",
+    "consumerId": "CONS_120",
+    "department": "Retail Consumer",
+    "assignedSector": "INDUSTRIAL"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "genId": "GEN_001",
+    "plantId": "PLANT_001",
+    "date": "2025-10-02T21:25:06.459Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_002",
+    "plantId": "PLANT_002",
+    "date": "2026-06-30T04:51:09.482Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_003",
+    "plantId": "PLANT_003",
+    "date": "2026-06-25T11:23:01.858Z",
+    "unitsKwh": 7963.32
+  },
+  {
+    "genId": "GEN_004",
+    "plantId": "PLANT_004",
+    "date": "2025-12-04T05:24:03.090Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_005",
+    "plantId": "PLANT_005",
+    "date": "2026-01-01T16:47:23.465Z",
+    "unitsKwh": 13785.53
+  },
+  {
+    "genId": "GEN_006",
+    "plantId": "PLANT_006",
+    "date": "2025-12-03T10:56:30.050Z",
+    "unitsKwh": 2664.12
+  },
+  {
+    "genId": "GEN_007",
+    "plantId": "PLANT_007",
+    "date": "2026-06-29T17:59:18.671Z",
+    "unitsKwh": 2954.84
+  },
+  {
+    "genId": "GEN_008",
+    "plantId": "PLANT_008",
+    "date": "2025-11-29T22:04:43.801Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_009",
+    "plantId": "PLANT_009",
+    "date": "2026-07-01T19:48:07.215Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_010",
+    "plantId": "PLANT_010",
+    "date": "2026-07-17T10:44:15.948Z",
+    "unitsKwh": 6699.53
+  },
+  {
+    "genId": "GEN_011",
+    "plantId": "PLANT_011",
+    "date": "2026-03-08T00:11:22.321Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_012",
+    "plantId": "PLANT_012",
+    "date": "2026-09-11T01:57:47.742Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_013",
+    "plantId": "PLANT_013",
+    "date": "2025-10-31T08:46:04.717Z",
+    "unitsKwh": 20866.4
+  },
+  {
+    "genId": "GEN_014",
+    "plantId": "PLANT_014",
+    "date": "2026-04-04T16:04:07.015Z",
+    "unitsKwh": 6961.89
+  },
+  {
+    "genId": "GEN_015",
+    "plantId": "PLANT_015",
+    "date": "2026-03-05T14:20:52.616Z",
+    "unitsKwh": 8366.58
+  },
+  {
+    "genId": "GEN_016",
+    "plantId": "PLANT_016",
+    "date": "2026-04-23T21:53:41.867Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_017",
+    "plantId": "PLANT_017",
+    "date": "2026-05-25T22:13:20.994Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_018",
+    "plantId": "PLANT_018",
+    "date": "2026-03-31T14:17:35.919Z",
+    "unitsKwh": 30206.62
+  },
+  {
+    "genId": "GEN_019",
+    "plantId": "PLANT_019",
+    "date": "2025-12-10T14:34:47.791Z",
+    "unitsKwh": 21117.64
+  },
+  {
+    "genId": "GEN_020",
+    "plantId": "PLANT_020",
+    "date": "2026-01-30T16:32:34.508Z",
+    "unitsKwh": 9103.05
+  },
+  {
+    "genId": "GEN_021",
+    "plantId": "PLANT_021",
+    "date": "2026-05-20T12:19:01.792Z",
+    "unitsKwh": 6397.46
+  },
+  {
+    "genId": "GEN_022",
+    "plantId": "PLANT_022",
+    "date": "2025-10-01T21:23:42.614Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_023",
+    "plantId": "PLANT_023",
+    "date": "2026-05-21T18:50:05.672Z",
+    "unitsKwh": 12212.31
+  },
+  {
+    "genId": "GEN_024",
+    "plantId": "PLANT_024",
+    "date": "2026-08-18T01:29:12.270Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_025",
+    "plantId": "PLANT_025",
+    "date": "2026-05-05T17:50:05.395Z",
+    "unitsKwh": 7362.66
+  },
+  {
+    "genId": "GEN_026",
+    "plantId": "PLANT_026",
+    "date": "2026-09-16T13:15:56.373Z",
+    "unitsKwh": 1179.6
+  },
+  {
+    "genId": "GEN_027",
+    "plantId": "PLANT_027",
+    "date": "2026-06-15T20:18:42.306Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_028",
+    "plantId": "PLANT_028",
+    "date": "2025-10-29T16:00:15.875Z",
+    "unitsKwh": 1187.6
+  },
+  {
+    "genId": "GEN_029",
+    "plantId": "PLANT_029",
+    "date": "2025-11-01T12:39:56.769Z",
+    "unitsKwh": 9559.33
+  },
+  {
+    "genId": "GEN_030",
+    "plantId": "PLANT_030",
+    "date": "2026-04-18T00:27:57.126Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_031",
+    "plantId": "PLANT_031",
+    "date": "2025-10-17T23:01:41.428Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_032",
+    "plantId": "PLANT_032",
+    "date": "2026-04-30T23:34:58.174Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_033",
+    "plantId": "PLANT_033",
+    "date": "2026-04-16T16:12:43.650Z",
+    "unitsKwh": 8982.93
+  },
+  {
+    "genId": "GEN_034",
+    "plantId": "PLANT_034",
+    "date": "2026-06-02T18:33:23.949Z",
+    "unitsKwh": 2177.36
+  },
+  {
+    "genId": "GEN_035",
+    "plantId": "PLANT_035",
+    "date": "2026-06-09T10:07:38.494Z",
+    "unitsKwh": 49260.05
+  },
+  {
+    "genId": "GEN_036",
+    "plantId": "PLANT_036",
+    "date": "2026-01-03T08:01:47.552Z",
+    "unitsKwh": 2710.66
+  },
+  {
+    "genId": "GEN_037",
+    "plantId": "PLANT_037",
+    "date": "2025-11-27T16:07:14.629Z",
+    "unitsKwh": 6922.55
+  },
+  {
+    "genId": "GEN_038",
+    "plantId": "PLANT_038",
+    "date": "2026-05-13T18:23:53.263Z",
+    "unitsKwh": 15519.25
+  },
+  {
+    "genId": "GEN_039",
+    "plantId": "PLANT_039",
+    "date": "2026-07-17T09:45:32.671Z",
+    "unitsKwh": 2091.77
+  },
+  {
+    "genId": "GEN_040",
+    "plantId": "PLANT_040",
+    "date": "2025-12-28T23:45:55.865Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_041",
+    "plantId": "PLANT_041",
+    "date": "2025-10-29T19:06:47.726Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_042",
+    "plantId": "PLANT_042",
+    "date": "2026-06-06T01:59:44.626Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_043",
+    "plantId": "PLANT_043",
+    "date": "2026-05-21T21:43:13.384Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_044",
+    "plantId": "PLANT_044",
+    "date": "2026-01-15T19:58:18.874Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_045",
+    "plantId": "PLANT_045",
+    "date": "2026-05-05T12:10:58.205Z",
+    "unitsKwh": 46327.55
+  },
+  {
+    "genId": "GEN_046",
+    "plantId": "PLANT_046",
+    "date": "2026-06-19T12:48:11.285Z",
+    "unitsKwh": 29762.87
+  },
+  {
+    "genId": "GEN_047",
+    "plantId": "PLANT_047",
+    "date": "2025-10-28T19:19:48.801Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_048",
+    "plantId": "PLANT_048",
+    "date": "2025-10-24T08:15:06.879Z",
+    "unitsKwh": 1311.55
+  },
+  {
+    "genId": "GEN_049",
+    "plantId": "PLANT_049",
+    "date": "2026-01-17T08:55:10.595Z",
+    "unitsKwh": 3538.13
+  },
+  {
+    "genId": "GEN_050",
+    "plantId": "PLANT_050",
+    "date": "2026-03-09T16:09:01.345Z",
+    "unitsKwh": 7440.66
+  },
+  {
+    "genId": "GEN_051",
+    "plantId": "PLANT_051",
+    "date": "2026-05-17T07:43:35.521Z",
+    "unitsKwh": 16481.61
+  },
+  {
+    "genId": "GEN_052",
+    "plantId": "PLANT_052",
+    "date": "2026-06-19T08:14:34.631Z",
+    "unitsKwh": 8469.29
+  },
+  {
+    "genId": "GEN_053",
+    "plantId": "PLANT_053",
+    "date": "2026-06-22T15:56:45.974Z",
+    "unitsKwh": 14465.94
+  },
+  {
+    "genId": "GEN_054",
+    "plantId": "PLANT_054",
+    "date": "2025-10-07T21:40:18.655Z",
+    "unitsKwh": 0
+  },
+  {
+    "genId": "GEN_055",
+    "plantId": "PLANT_055",
+    "date": "2026-07-02T12:20:11.382Z",
+    "unitsKwh": 4639.35
+  },
+  {
+    "genId": "GEN_056",
+    "plantId": "PLANT_056",
+    "date": "2026-05-27T23:31:28.470Z",
+    "unitsKwh": 580.2
+  },
+  {
+    "genId": "GEN_057",
+    "plantId": "PLANT_057",
+    "date": "2026-07-19T05:27:50.509Z",
+    "unitsKwh": 7675.95
+  },
+  {
+    "genId": "GEN_058",
+    "plantId": "PLANT_058",
+    "date": "2025-12-25T19:23:28.955Z",
+    "unitsKwh": 540.21
+  },
+  {
+    "genId": "GEN_059",
+    "plantId": "PLANT_059",
+    "date": "2026-03-28T13:14:49.113Z",
+    "unitsKwh": 12543.57
+  },
+  {
+    "genId": "GEN_060",
+    "plantId": "PLANT_060",
+    "date": "2026-06-21T21:52:13.746Z",
+    "unitsKwh": 3178.95
+  },
+  {
+    "genId": "GEN_061",
+    "plantId": "PLANT_061",
+    "date": "2025-10-05T10:20:15.763Z",
+    "unitsKwh": 6896.49
+  },
+  {
+    "genId": "GEN_062",
+    "plantId": "PLANT_062",
+    "date": "2026-01-18T20:24:31.968Z",
+    "unitsKwh": 27791.44
+  },
+  {
+    "genId": "GEN_063",
+    "plantId": "PLANT_063",
+    "date": "2025-10-09T06:46:12.308Z",
+    "unitsKwh": 4363.48
+  },
+  {
+    "genId": "GEN_064",
+    "plantId": "PLANT_064",
+    "date": "2025-10-31T19:34:39.089Z",
+    "unitsKwh": 21908.36
+  },
+  {
+    "genId": "GEN_065",
+    "plantId": "PLANT_065",
+    "date": "2025-11-13T13:52:52.302Z",
+    "unitsKwh": 4254.7
+  },
+  {
+    "genId": "GEN_066",
+    "plantId": "PLANT_066",
+    "date": "2026-01-07T07:29:53.316Z",
+    "unitsKwh": 2610.61
+  },
+  {
+    "genId": "GEN_067",
+    "plantId": "PLANT_067",
+    "date": "2026-06-20T11:21:34.822Z",
+    "unitsKwh": 450.05
+  },
+  {
+    "genId": "GEN_068",
+    "plantId": "PLANT_068",
+    "date": "2026-05-04T19:29:26.456Z",
+    "unitsKwh": 12000.74
+  },
+  {
+    "genId": "GEN_069",
+    "plantId": "PLANT_069",
+    "date": "2026-08-29T17:28:09.702Z",
+    "unitsKwh": 361.33
+  },
+  {
+    "genId": "GEN_070",
+    "plantId": "PLANT_070",
+    "date": "2026-03-30T09:07:10.825Z",
+    "unitsKwh": 6038.31
+  },
+  {
+    "genId": "GEN_071",
+    "plantId": "PLANT_071",
+    "date": "2026-09-12T21:01:56.971Z",
+    "unitsKwh": 1318.06
+  },
+  {
+    "genId": "GEN_072",
+    "plantId": "PLANT_072",
+    "date": "2026-01-07T13:53:03.883Z",
+    "unitsKwh": 9190.26
+  },
+  {
+    "genId": "GEN_073",
+    "plantId": "PLANT_073",
+    "date": "2025-12-22T07:12:30.817Z",
+    "unitsKwh": 5939.99
+  },
+  {
+    "genId": "GEN_074",
+    "plantId": "PLANT_074",
+    "date": "2025-12-10T13:51:00.411Z",
+    "unitsKwh": 1227.43
+  },
+  {
+    "genId": "GEN_075",
+    "plantId": "PLANT_075",
+    "date": "2026-08-05T04:03:37.252Z",
+    "unitsKwh": 3464.12
+  },
+  {
+    "genId": "GEN_076",
+    "plantId": "PLANT_076",
+    "date": "2026-02-08T05:40:46.031Z",
+    "unitsKwh": 800.6
+  },
+  {
+    "genId": "GEN_077",
+    "plantId": "PLANT_077",
+    "date": "2026-01-16T21:49:09.059Z",
+    "unitsKwh": 5700.05
+  },
+  {
+    "genId": "GEN_078",
+    "plantId": "PLANT_078",
+    "date": "2026-04-16T05:52:43.336Z",
+    "unitsKwh": 610.91
+  },
+  {
+    "genId": "GEN_079",
+    "plantId": "PLANT_079",
+    "date": "2025-10-24T19:27:58.474Z",
+    "unitsKwh": 3319.33
+  },
+  {
+    "genId": "GEN_080",
+    "plantId": "PLANT_080",
+    "date": "2025-10-17T00:57:03.713Z",
+    "unitsKwh": 2306.42
+  },
+  {
+    "genId": "GEN_081",
+    "plantId": "PLANT_081",
+    "date": "2026-03-22T04:29:37.125Z",
+    "unitsKwh": 6100.76
+  },
+  {
+    "genId": "GEN_082",
+    "plantId": "PLANT_082",
+    "date": "2025-10-07T22:19:30.857Z",
+    "unitsKwh": 14066.81
+  },
+  {
+    "genId": "GEN_083",
+    "plantId": "PLANT_083",
+    "date": "2026-02-14T10:46:58.340Z",
+    "unitsKwh": 10238.97
+  },
+  {
+    "genId": "GEN_084",
+    "plantId": "PLANT_084",
+    "date": "2026-03-24T00:19:55.447Z",
+    "unitsKwh": 53109.33
+  },
+  {
+    "genId": "GEN_085",
+    "plantId": "PLANT_085",
+    "date": "2026-06-23T12:48:55.807Z",
+    "unitsKwh": 5287.21
+  },
+  {
+    "genId": "GEN_086",
+    "plantId": "PLANT_086",
+    "date": "2026-08-09T14:13:09.394Z",
+    "unitsKwh": 5574.99
+  },
+  {
+    "genId": "GEN_087",
+    "plantId": "PLANT_087",
+    "date": "2025-12-21T16:22:14.172Z",
+    "unitsKwh": 232.81
+  },
+  {
+    "genId": "GEN_088",
+    "plantId": "PLANT_088",
+    "date": "2026-08-01T08:35:43.109Z",
+    "unitsKwh": 1557.65
+  },
+  {
+    "genId": "GEN_089",
+    "plantId": "PLANT_089",
+    "date": "2026-02-20T09:22:09.577Z",
+    "unitsKwh": 4327.84
+  },
+  {
+    "genId": "GEN_090",
+    "plantId": "PLANT_090",
+    "date": "2026-09-13T13:04:37.752Z",
+    "unitsKwh": 3435.35
+  },
+  {
+    "genId": "GEN_091",
+    "plantId": "PLANT_091",
+    "date": "2026-04-30T22:55:29.661Z",
+    "unitsKwh": 4879.62
+  },
+  {
+    "genId": "GEN_092",
+    "plantId": "PLANT_092",
+    "date": "2026-06-02T10:15:02.030Z",
+    "unitsKwh": 686.92
+  },
+  {
+    "genId": "GEN_093",
+    "plantId": "PLANT_093",
+    "date": "2025-12-17T04:04:58.500Z",
+    "unitsKwh": 4797.81
+  },
+  {
+    "genId": "GEN_094",
+    "plantId": "PLANT_094",
+    "date": "2026-04-18T13:25:18.441Z",
+    "unitsKwh": 4084.49
+  },
+  {
+    "genId": "GEN_095",
+    "plantId": "PLANT_095",
+    "date": "2026-03-01T11:39:49.871Z",
+    "unitsKwh": 2902.86
+  },
+  {
+    "genId": "GEN_096",
+    "plantId": "PLANT_096",
+    "date": "2026-04-09T08:05:06.479Z",
+    "unitsKwh": 10339.13
+  },
+  {
+    "genId": "GEN_097",
+    "plantId": "PLANT_097",
+    "date": "2026-07-18T22:24:40.048Z",
+    "unitsKwh": 18379.7
+  },
+  {
+    "genId": "GEN_098",
+    "plantId": "PLANT_098",
+    "date": "2026-03-02T16:24:11.516Z",
+    "unitsKwh": 13965.55
+  },
+  {
+    "genId": "GEN_099",
+    "plantId": "PLANT_099",
+    "date": "2026-04-14T04:29:59.973Z",
+    "unitsKwh": 11085.85
+  },
+  {
+    "genId": "GEN_100",
+    "plantId": "PLANT_100",
+    "date": "2026-04-05T23:27:48.910Z",
+    "unitsKwh": 8268.74
+  },
+  {
+    "genId": "GEN_101",
+    "plantId": "PLANT_101",
+    "date": "2026-02-19T10:24:40.420Z",
+    "unitsKwh": 3608.98
+  },
+  {
+    "genId": "GEN_102",
+    "plantId": "PLANT_102",
+    "date": "2025-11-19T21:51:03.595Z",
+    "unitsKwh": 14363.56
+  },
+  {
+    "genId": "GEN_103",
+    "plantId": "PLANT_103",
+    "date": "2025-12-29T21:08:46.050Z",
+    "unitsKwh": 4301.32
+  },
+  {
+    "genId": "GEN_104",
+    "plantId": "PLANT_104",
+    "date": "2026-02-25T14:57:31.334Z",
+    "unitsKwh": 4540.41
+  },
+  {
+    "genId": "GEN_105",
+    "plantId": "PLANT_105",
+    "date": "2025-11-08T14:38:36.141Z",
+    "unitsKwh": 9971.55
+  },
+  {
+    "genId": "GEN_106",
+    "plantId": "PLANT_106",
+    "date": "2025-10-04T10:17:16.545Z",
+    "unitsKwh": 28864.72
+  },
+  {
+    "genId": "GEN_107",
+    "plantId": "PLANT_107",
+    "date": "2026-03-14T18:05:44.062Z",
+    "unitsKwh": 21606.58
+  },
+  {
+    "genId": "GEN_108",
+    "plantId": "PLANT_108",
+    "date": "2026-04-04T16:17:22.463Z",
+    "unitsKwh": 21239.21
+  },
+  {
+    "genId": "GEN_109",
+    "plantId": "PLANT_109",
+    "date": "2026-05-11T10:04:50.190Z",
+    "unitsKwh": 38006.81
+  },
+  {
+    "genId": "GEN_110",
+    "plantId": "PLANT_110",
+    "date": "2026-04-29T15:51:27.039Z",
+    "unitsKwh": 9514.22
+  },
+  {
+    "genId": "GEN_111",
+    "plantId": "PLANT_111",
+    "date": "2026-09-28T20:01:27.109Z",
+    "unitsKwh": 26473.16
+  },
+  {
+    "genId": "GEN_112",
+    "plantId": "PLANT_112",
+    "date": "2026-08-02T15:03:18.492Z",
+    "unitsKwh": 49225.84
+  },
+  {
+    "genId": "GEN_113",
+    "plantId": "PLANT_113",
+    "date": "2025-11-18T07:37:07.656Z",
+    "unitsKwh": 16862.93
+  },
+  {
+    "genId": "GEN_114",
+    "plantId": "PLANT_114",
+    "date": "2026-02-27T17:56:30.244Z",
+    "unitsKwh": 22744.84
+  },
+  {
+    "genId": "GEN_115",
+    "plantId": "PLANT_115",
+    "date": "2026-08-13T14:00:01.710Z",
+    "unitsKwh": 19295.51
+  },
+  {
+    "genId": "GEN_116",
+    "plantId": "PLANT_116",
+    "date": "2026-09-30T15:19:17.902Z",
+    "unitsKwh": 31198.22
+  },
+  {
+    "genId": "GEN_117",
+    "plantId": "PLANT_117",
+    "date": "2025-10-20T13:40:44.459Z",
+    "unitsKwh": 9234.93
+  },
+  {
+    "genId": "GEN_118",
+    "plantId": "PLANT_118",
+    "date": "2026-07-20T14:29:22.207Z",
+    "unitsKwh": 17131.72
+  },
+  {
+    "genId": "GEN_119",
+    "plantId": "PLANT_119",
+    "date": "2026-02-23T05:17:22.906Z",
+    "unitsKwh": 31211.32
+  },
+  {
+    "genId": "GEN_120",
+    "plantId": "PLANT_120",
+    "date": "2026-09-16T12:22:07.337Z",
+    "unitsKwh": 52226.96
+  }
+]

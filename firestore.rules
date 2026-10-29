@@ -1,0 +1,97 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Default deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // 1. Plants
+    match /plants/{plantId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 2. Equipment
+    match /equipment/{equipmentId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 3. Batteries
+    match /batteries/{batteryId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 4. Generation
+    match /generation/{genId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 5. Consumers
+    match /consumers/{consumerId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 6. Meters
+    match /meters/{meterId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 7. Readings
+    match /readings/{readingId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 8. Bills
+    match /bills/{billId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 9. Alerts
+    match /alerts/{alertId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 10. Audit Logs
+    match /auditLogs/{logId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 11. Tariffs
+    match /tariffs/{tariffId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 12. Config
+    match /config/{key} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+
+    // 13. Users
+    match /users/{userId} {
+      allow read: if true;
+      allow write: if isSignedIn() || request.auth == null;
+    }
+  }
+}

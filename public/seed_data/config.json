@@ -1,0 +1,27 @@
+[
+  {
+    "key": "emissionFactor",
+    "value": 0.71,
+    "note": "Central Electricity Authority (CEA) grid baseline emission factor: 0.71 kg CO2 avoided per kWh generated"
+  },
+  {
+    "key": "lowOutputRatio",
+    "value": 0.6,
+    "note": "Inverter output threshold: 60% of expected pyranometer irradiance triggers LOW_OUTPUT alert"
+  },
+  {
+    "key": "lowBatteryPct",
+    "value": 20,
+    "note": "Battery BESS threshold: State-of-Charge below 20% triggers urgent LOW_BATTERY grid stabilization alert"
+  },
+  {
+    "key": "warrantyAlertDays",
+    "value": 30,
+    "note": "Asset management: Triggers WARRANTY_EXPIRY warning notice 30 days before manufacturer warranty expires"
+  },
+  {
+    "key": "peakHourMultiplier",
+    "value": 1.2,
+    "note": "Time-of-day dynamic peak hour surcharge multiplier (18:00 - 22:00)"
+  }
+]

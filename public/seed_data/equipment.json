@@ -1,0 +1,1082 @@
+[
+  {
+    "equipmentId": "EQUIP_001",
+    "plantId": "PLANT_001",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-04-25T04:02:40.809Z",
+    "warrantyEnd": "2029-04-25T04:02:40.809Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_002",
+    "plantId": "PLANT_002",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-04-16T07:54:10.831Z",
+    "warrantyEnd": "2029-04-16T07:54:10.831Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_003",
+    "plantId": "PLANT_003",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2025-10-22T11:49:14.870Z",
+    "warrantyEnd": "2032-10-22T11:49:14.870Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_004",
+    "plantId": "PLANT_004",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2025-11-30T02:50:05.500Z",
+    "warrantyEnd": "2028-11-30T02:50:05.500Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_005",
+    "plantId": "PLANT_005",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-03-01T09:16:40.660Z",
+    "warrantyEnd": "2036-03-01T09:16:40.660Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_006",
+    "plantId": "PLANT_006",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-03-26T10:51:54.499Z",
+    "warrantyEnd": "2029-03-26T10:51:54.499Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_007",
+    "plantId": "PLANT_007",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2025-11-05T12:04:06.395Z",
+    "warrantyEnd": "2035-11-05T12:04:06.395Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_008",
+    "plantId": "PLANT_008",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2025-10-25T22:09:32.131Z",
+    "warrantyEnd": "2028-10-25T22:09:32.131Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_009",
+    "plantId": "PLANT_009",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2026-01-06T14:55:53.455Z",
+    "warrantyEnd": "2029-01-06T14:55:53.455Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_010",
+    "plantId": "PLANT_010",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-04-16T02:22:53.087Z",
+    "warrantyEnd": "2031-04-16T02:22:53.087Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_011",
+    "plantId": "PLANT_011",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-06-19T20:52:03.335Z",
+    "warrantyEnd": "2033-06-19T20:52:03.335Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_012",
+    "plantId": "PLANT_012",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-01-14T00:15:19.954Z",
+    "warrantyEnd": "2036-01-14T00:15:19.954Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_013",
+    "plantId": "PLANT_013",
+    "equipType": "STRING_INVERTER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-03-29T18:07:38.264Z",
+    "warrantyEnd": "2036-03-29T18:07:38.264Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_014",
+    "plantId": "PLANT_014",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-05-11T14:43:32.754Z",
+    "warrantyEnd": "2031-05-11T14:43:32.754Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_015",
+    "plantId": "PLANT_015",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-05-06T16:25:32.112Z",
+    "warrantyEnd": "2031-05-06T16:25:32.112Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_016",
+    "plantId": "PLANT_016",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-11-27T12:37:32.895Z",
+    "warrantyEnd": "2035-11-27T12:37:32.895Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_017",
+    "plantId": "PLANT_017",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-05-17T04:05:15.325Z",
+    "warrantyEnd": "2029-05-17T04:05:15.325Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_018",
+    "plantId": "PLANT_018",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2025-12-16T03:16:57.761Z",
+    "warrantyEnd": "2028-12-16T03:16:57.761Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_019",
+    "plantId": "PLANT_019",
+    "equipType": "STRING_INVERTER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2025-10-04T17:59:03.195Z",
+    "warrantyEnd": "2035-10-04T17:59:03.195Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_020",
+    "plantId": "PLANT_020",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2026-02-20T21:45:58.931Z",
+    "warrantyEnd": "2036-02-20T21:45:58.931Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_021",
+    "plantId": "PLANT_021",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-01-05T01:12:33.557Z",
+    "warrantyEnd": "2029-01-05T01:12:33.557Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_022",
+    "plantId": "PLANT_022",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2026-01-03T16:57:11.471Z",
+    "warrantyEnd": "2036-01-03T16:57:11.471Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_023",
+    "plantId": "PLANT_023",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-01-23T09:48:26.609Z",
+    "warrantyEnd": "2031-01-23T09:48:26.609Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_024",
+    "plantId": "PLANT_024",
+    "equipType": "STRING_INVERTER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-12-12T16:08:38.696Z",
+    "warrantyEnd": "2030-12-12T16:08:38.696Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_025",
+    "plantId": "PLANT_025",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-06-05T05:04:20.101Z",
+    "warrantyEnd": "2031-06-05T05:04:20.101Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_026",
+    "plantId": "PLANT_026",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-10-07T00:06:52.774Z",
+    "warrantyEnd": "2032-10-07T00:06:52.774Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_027",
+    "plantId": "PLANT_027",
+    "equipType": "STRING_INVERTER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2025-10-07T15:19:38.357Z",
+    "warrantyEnd": "2032-10-07T15:19:38.357Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_028",
+    "plantId": "PLANT_028",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2025-11-12T08:20:14.022Z",
+    "warrantyEnd": "2030-11-12T08:20:14.022Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_029",
+    "plantId": "PLANT_029",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-05-21T19:52:21.855Z",
+    "warrantyEnd": "2031-05-21T19:52:21.855Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_030",
+    "plantId": "PLANT_030",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-03-21T17:58:55.601Z",
+    "warrantyEnd": "2031-03-21T17:58:55.601Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_031",
+    "plantId": "PLANT_031",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-04-12T11:48:54.800Z",
+    "warrantyEnd": "2031-04-12T11:48:54.800Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_032",
+    "plantId": "PLANT_032",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2026-06-10T09:32:29.630Z",
+    "warrantyEnd": "2031-06-10T09:32:29.630Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_033",
+    "plantId": "PLANT_033",
+    "equipType": "STRING_INVERTER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2026-05-08T02:29:20.770Z",
+    "warrantyEnd": "2029-05-08T02:29:20.770Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_034",
+    "plantId": "PLANT_034",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2025-10-31T20:20:48.226Z",
+    "warrantyEnd": "2035-10-31T20:20:48.226Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_035",
+    "plantId": "PLANT_035",
+    "equipType": "STRING_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-02-01T23:28:05.866Z",
+    "warrantyEnd": "2033-02-01T23:28:05.866Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_036",
+    "plantId": "PLANT_036",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2026-06-04T01:58:58.719Z",
+    "warrantyEnd": "2033-06-04T01:58:58.719Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_037",
+    "plantId": "PLANT_037",
+    "equipType": "STRING_INVERTER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-04-18T14:34:49.320Z",
+    "warrantyEnd": "2031-04-18T14:34:49.320Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_038",
+    "plantId": "PLANT_038",
+    "equipType": "STRING_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-03-17T12:39:02.149Z",
+    "warrantyEnd": "2033-03-17T12:39:02.149Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_039",
+    "plantId": "PLANT_039",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-03-08T00:41:08.435Z",
+    "warrantyEnd": "2036-03-08T00:41:08.435Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_040",
+    "plantId": "PLANT_040",
+    "equipType": "STRING_INVERTER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-03-22T20:46:50.931Z",
+    "warrantyEnd": "2031-03-22T20:46:50.931Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_041",
+    "plantId": "PLANT_041",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-11-12T10:12:41.866Z",
+    "warrantyEnd": "2030-11-12T10:12:41.866Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_042",
+    "plantId": "PLANT_042",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-01-09T03:25:16.162Z",
+    "warrantyEnd": "2033-01-09T03:25:16.162Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_043",
+    "plantId": "PLANT_043",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2026-02-06T10:03:15.784Z",
+    "warrantyEnd": "2029-02-06T10:03:15.784Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_044",
+    "plantId": "PLANT_044",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "ABB PVS980-58 Central 2000kVA",
+    "installedOn": "2025-11-27T04:01:37.584Z",
+    "warrantyEnd": "2035-11-27T04:01:37.584Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_045",
+    "plantId": "PLANT_045",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2025-12-25T18:00:51.417Z",
+    "warrantyEnd": "2032-12-25T18:00:51.417Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_046",
+    "plantId": "PLANT_046",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-11-01T04:06:52.845Z",
+    "warrantyEnd": "2032-11-01T04:06:52.845Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_047",
+    "plantId": "PLANT_047",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Schneider Conext Core XC 1000V",
+    "installedOn": "2026-03-19T04:41:55.940Z",
+    "warrantyEnd": "2031-03-19T04:41:55.940Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_048",
+    "plantId": "PLANT_048",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2026-03-28T01:58:01.514Z",
+    "warrantyEnd": "2036-03-28T01:58:01.514Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_049",
+    "plantId": "PLANT_049",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-03-15T19:05:12.092Z",
+    "warrantyEnd": "2031-03-15T19:05:12.092Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_050",
+    "plantId": "PLANT_050",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-06-06T22:19:51.998Z",
+    "warrantyEnd": "2031-06-06T22:19:51.998Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_051",
+    "plantId": "PLANT_051",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "SMA Sunny Central 2500-EV",
+    "installedOn": "2026-02-13T01:52:33.532Z",
+    "warrantyEnd": "2036-02-13T01:52:33.532Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_052",
+    "plantId": "PLANT_052",
+    "equipType": "SOLAR_ARRAY_COMBINER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-04-23T05:00:12.576Z",
+    "warrantyEnd": "2031-04-23T05:00:12.576Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_053",
+    "plantId": "PLANT_053",
+    "equipType": "SINGLE_AXIS_TRACKER",
+    "model": "Kipp & Zonen CMP11 Pyranometer",
+    "installedOn": "2026-03-24T08:03:08.317Z",
+    "warrantyEnd": "2033-03-24T08:03:08.317Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_054",
+    "plantId": "PLANT_054",
+    "equipType": "CENTRAL_INVERTER",
+    "model": "Sungrow SG250HX String Inverter",
+    "installedOn": "2025-12-30T14:48:51.469Z",
+    "warrantyEnd": "2028-12-30T14:48:51.469Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_055",
+    "plantId": "PLANT_055",
+    "equipType": "PYRANOMETER_STATION",
+    "model": "Nextracker Horizon Single-Axis Gen2",
+    "installedOn": "2026-02-12T03:40:30.449Z",
+    "warrantyEnd": "2033-02-12T03:40:30.449Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_056",
+    "plantId": "PLANT_056",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2025-10-01T10:35:09.747Z",
+    "warrantyEnd": "2032-10-01T10:35:09.747Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_057",
+    "plantId": "PLANT_057",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2025-10-18T13:52:02.623Z",
+    "warrantyEnd": "2028-10-18T13:52:02.623Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_058",
+    "plantId": "PLANT_058",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Bonfiglioli 700T Series Yaw Drive",
+    "installedOn": "2026-06-17T22:42:13.599Z",
+    "warrantyEnd": "2036-06-17T22:42:13.599Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_059",
+    "plantId": "PLANT_059",
+    "equipType": "GENERATOR_UNIT",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2025-11-25T19:01:18.032Z",
+    "warrantyEnd": "2032-11-25T19:01:18.032Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_060",
+    "plantId": "PLANT_060",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2025-10-22T06:23:15.212Z",
+    "warrantyEnd": "2035-10-22T06:23:15.212Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_061",
+    "plantId": "PLANT_061",
+    "equipType": "GENERATOR_UNIT",
+    "model": "Bonfiglioli 700T Series Yaw Drive",
+    "installedOn": "2025-11-18T05:53:39.434Z",
+    "warrantyEnd": "2028-11-18T05:53:39.434Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_062",
+    "plantId": "PLANT_062",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2026-02-19T02:26:14.427Z",
+    "warrantyEnd": "2033-02-19T02:26:14.427Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_063",
+    "plantId": "PLANT_063",
+    "equipType": "BLADE_PITCH_ACTUATOR",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2025-10-21T04:28:46.667Z",
+    "warrantyEnd": "2028-10-21T04:28:46.667Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_064",
+    "plantId": "PLANT_064",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-04-02T11:42:21.232Z",
+    "warrantyEnd": "2033-04-02T11:42:21.232Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_065",
+    "plantId": "PLANT_065",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-06-21T10:26:48.518Z",
+    "warrantyEnd": "2029-06-21T10:26:48.518Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_066",
+    "plantId": "PLANT_066",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Vestas V150-4.2 MW Nacelle Assembly",
+    "installedOn": "2025-12-03T16:32:12.727Z",
+    "warrantyEnd": "2030-12-03T16:32:12.727Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_067",
+    "plantId": "PLANT_067",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2025-12-24T02:56:13.268Z",
+    "warrantyEnd": "2035-12-24T02:56:13.268Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_068",
+    "plantId": "PLANT_068",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Vestas V150-4.2 MW Nacelle Assembly",
+    "installedOn": "2026-01-11T23:48:09.622Z",
+    "warrantyEnd": "2033-01-11T23:48:09.622Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_069",
+    "plantId": "PLANT_069",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2025-11-23T00:17:47.870Z",
+    "warrantyEnd": "2032-11-23T00:17:47.870Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_070",
+    "plantId": "PLANT_070",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2026-06-27T12:02:10.679Z",
+    "warrantyEnd": "2033-06-27T12:02:10.679Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_071",
+    "plantId": "PLANT_071",
+    "equipType": "BLADE_PITCH_ACTUATOR",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2026-05-09T23:03:18.244Z",
+    "warrantyEnd": "2036-05-09T23:03:18.244Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_072",
+    "plantId": "PLANT_072",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-02-09T07:18:30.110Z",
+    "warrantyEnd": "2029-02-09T07:18:30.110Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_073",
+    "plantId": "PLANT_073",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2025-11-15T21:55:43.146Z",
+    "warrantyEnd": "2028-11-15T21:55:43.146Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_074",
+    "plantId": "PLANT_074",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2026-03-18T17:16:36.661Z",
+    "warrantyEnd": "2029-03-18T17:16:36.661Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_075",
+    "plantId": "PLANT_075",
+    "equipType": "BLADE_PITCH_ACTUATOR",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-04-13T05:43:52.089Z",
+    "warrantyEnd": "2033-04-13T05:43:52.089Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_076",
+    "plantId": "PLANT_076",
+    "equipType": "GENERATOR_UNIT",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-04-11T09:23:59.861Z",
+    "warrantyEnd": "2029-04-11T09:23:59.861Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_077",
+    "plantId": "PLANT_077",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-03-03T21:53:09.718Z",
+    "warrantyEnd": "2029-03-03T21:53:09.718Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_078",
+    "plantId": "PLANT_078",
+    "equipType": "BLADE_PITCH_ACTUATOR",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2026-04-16T19:56:02.080Z",
+    "warrantyEnd": "2031-04-16T19:56:02.080Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_079",
+    "plantId": "PLANT_079",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-03-16T18:36:51.200Z",
+    "warrantyEnd": "2033-03-16T18:36:51.200Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_080",
+    "plantId": "PLANT_080",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Vestas V150-4.2 MW Nacelle Assembly",
+    "installedOn": "2026-03-17T11:42:12.126Z",
+    "warrantyEnd": "2033-03-17T11:42:12.126Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_081",
+    "plantId": "PLANT_081",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Bonfiglioli 700T Series Yaw Drive",
+    "installedOn": "2026-03-01T07:01:47.202Z",
+    "warrantyEnd": "2033-03-01T07:01:47.202Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_082",
+    "plantId": "PLANT_082",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2025-11-30T08:38:10.945Z",
+    "warrantyEnd": "2032-11-30T08:38:10.945Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_083",
+    "plantId": "PLANT_083",
+    "equipType": "GENERATOR_UNIT",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-01-28T02:14:42.162Z",
+    "warrantyEnd": "2031-01-28T02:14:42.162Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_084",
+    "plantId": "PLANT_084",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Vestas V150-4.2 MW Nacelle Assembly",
+    "installedOn": "2025-10-15T20:13:46.943Z",
+    "warrantyEnd": "2035-10-15T20:13:46.943Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_085",
+    "plantId": "PLANT_085",
+    "equipType": "BLADE_PITCH_ACTUATOR",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2025-11-23T08:53:15.005Z",
+    "warrantyEnd": "2030-11-23T08:53:15.005Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_086",
+    "plantId": "PLANT_086",
+    "equipType": "GENERATOR_UNIT",
+    "model": "Bonfiglioli 700T Series Yaw Drive",
+    "installedOn": "2026-02-11T23:27:40.131Z",
+    "warrantyEnd": "2033-02-11T23:27:40.131Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_087",
+    "plantId": "PLANT_087",
+    "equipType": "GENERATOR_UNIT",
+    "model": "Suzlon S120 Hybrid Lattice Nacelle",
+    "installedOn": "2026-06-13T16:25:15.123Z",
+    "warrantyEnd": "2031-06-13T16:25:15.123Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_088",
+    "plantId": "PLANT_088",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-06-17T13:08:09.442Z",
+    "warrantyEnd": "2036-06-17T13:08:09.442Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_089",
+    "plantId": "PLANT_089",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-01-31T17:20:31.973Z",
+    "warrantyEnd": "2033-01-31T17:20:31.973Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_090",
+    "plantId": "PLANT_090",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2025-10-12T00:55:30.622Z",
+    "warrantyEnd": "2035-10-12T00:55:30.622Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_091",
+    "plantId": "PLANT_091",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Thies Clima Ultrasonic Anemometer 2D",
+    "installedOn": "2026-04-29T14:57:26.828Z",
+    "warrantyEnd": "2031-04-29T14:57:26.828Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_092",
+    "plantId": "PLANT_092",
+    "equipType": "WIND_TURBINE_NACELLE",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2026-04-26T09:58:42.225Z",
+    "warrantyEnd": "2029-04-26T09:58:42.225Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_093",
+    "plantId": "PLANT_093",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "GE Vernova 2.7-116 DFIG Generator",
+    "installedOn": "2026-01-22T14:45:33.796Z",
+    "warrantyEnd": "2029-01-22T14:45:33.796Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_094",
+    "plantId": "PLANT_094",
+    "equipType": "YAW_DRIVE_MOTOR",
+    "model": "Siemens Gamesa SG 3.4-132 Turbine Gen",
+    "installedOn": "2025-12-29T23:58:12.679Z",
+    "warrantyEnd": "2030-12-29T23:58:12.679Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_095",
+    "plantId": "PLANT_095",
+    "equipType": "ANEMOMETER_MAST",
+    "model": "Vestas V150-4.2 MW Nacelle Assembly",
+    "installedOn": "2026-05-13T15:49:01.305Z",
+    "warrantyEnd": "2031-05-13T15:49:01.305Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_096",
+    "plantId": "PLANT_096",
+    "equipType": "HYDRO_TURBINE_GOVERNOR",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2026-01-15T18:03:40.768Z",
+    "warrantyEnd": "2036-01-15T18:03:40.768Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_097",
+    "plantId": "PLANT_097",
+    "equipType": "STEP_UP_TRANSFORMER",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2025-10-16T03:55:37.368Z",
+    "warrantyEnd": "2035-10-16T03:55:37.368Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_098",
+    "plantId": "PLANT_098",
+    "equipType": "STEP_UP_TRANSFORMER",
+    "model": "Flowserve Bi-Plane Butterfly Valve 2200mm",
+    "installedOn": "2026-04-14T09:45:48.761Z",
+    "warrantyEnd": "2031-04-14T09:45:48.761Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_099",
+    "plantId": "PLANT_099",
+    "equipType": "FRANCIS_RUNNER",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-03-18T19:08:05.989Z",
+    "warrantyEnd": "2031-03-18T19:08:05.989Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_100",
+    "plantId": "PLANT_100",
+    "equipType": "FRANCIS_RUNNER",
+    "model": "ABB Power Step-Up Transformer 33/132kV",
+    "installedOn": "2025-12-14T14:26:36.222Z",
+    "warrantyEnd": "2032-12-14T14:26:36.222Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_101",
+    "plantId": "PLANT_101",
+    "equipType": "STEP_UP_TRANSFORMER",
+    "model": "Voith Hydro Francis F-250 High Head",
+    "installedOn": "2026-03-31T04:57:02.620Z",
+    "warrantyEnd": "2033-03-31T04:57:02.620Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_102",
+    "plantId": "PLANT_102",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "Flowserve Bi-Plane Butterfly Valve 2200mm",
+    "installedOn": "2025-12-29T00:08:30.465Z",
+    "warrantyEnd": "2035-12-29T00:08:30.465Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_103",
+    "plantId": "PLANT_103",
+    "equipType": "FRANCIS_RUNNER",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-05-05T14:28:01.031Z",
+    "warrantyEnd": "2033-05-05T14:28:01.031Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_104",
+    "plantId": "PLANT_104",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "Voith Hydro Francis F-250 High Head",
+    "installedOn": "2026-06-29T20:22:29.436Z",
+    "warrantyEnd": "2033-06-29T20:22:29.436Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_105",
+    "plantId": "PLANT_105",
+    "equipType": "HYDRO_TURBINE_GOVERNOR",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2025-10-15T01:21:49.111Z",
+    "warrantyEnd": "2028-10-15T01:21:49.111Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_106",
+    "plantId": "PLANT_106",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2026-05-15T13:04:44.818Z",
+    "warrantyEnd": "2033-05-15T13:04:44.818Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_107",
+    "plantId": "PLANT_107",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2025-10-26T13:27:22.773Z",
+    "warrantyEnd": "2032-10-26T13:27:22.773Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_108",
+    "plantId": "PLANT_108",
+    "equipType": "STEP_UP_TRANSFORMER",
+    "model": "Voith Hydro Francis F-250 High Head",
+    "installedOn": "2026-06-23T16:00:55.904Z",
+    "warrantyEnd": "2033-06-23T16:00:55.904Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_109",
+    "plantId": "PLANT_109",
+    "equipType": "FRANCIS_RUNNER",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2025-11-30T04:00:18.376Z",
+    "warrantyEnd": "2028-11-30T04:00:18.376Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_110",
+    "plantId": "PLANT_110",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "ABB Power Step-Up Transformer 33/132kV",
+    "installedOn": "2026-03-17T13:27:26.253Z",
+    "warrantyEnd": "2036-03-17T13:27:26.253Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_111",
+    "plantId": "PLANT_111",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-03-23T20:13:25.445Z",
+    "warrantyEnd": "2036-03-23T20:13:25.445Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_112",
+    "plantId": "PLANT_112",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-05-07T08:51:38.085Z",
+    "warrantyEnd": "2036-05-07T08:51:38.085Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_113",
+    "plantId": "PLANT_113",
+    "equipType": "HYDRO_TURBINE_GOVERNOR",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2025-12-30T19:00:18.016Z",
+    "warrantyEnd": "2028-12-30T19:00:18.016Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_114",
+    "plantId": "PLANT_114",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "ABB Power Step-Up Transformer 33/132kV",
+    "installedOn": "2026-01-17T19:06:07.028Z",
+    "warrantyEnd": "2033-01-17T19:06:07.028Z",
+    "health": "WARNING"
+  },
+  {
+    "equipmentId": "EQUIP_115",
+    "plantId": "PLANT_115",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "Flowserve Bi-Plane Butterfly Valve 2200mm",
+    "installedOn": "2025-10-05T03:55:10.474Z",
+    "warrantyEnd": "2028-10-05T03:55:10.474Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_116",
+    "plantId": "PLANT_116",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "Flowserve Bi-Plane Butterfly Valve 2200mm",
+    "installedOn": "2026-06-13T19:54:02.183Z",
+    "warrantyEnd": "2033-06-13T19:54:02.183Z",
+    "health": "FAULTY"
+  },
+  {
+    "equipmentId": "EQUIP_117",
+    "plantId": "PLANT_117",
+    "equipType": "STEP_UP_TRANSFORMER",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-05-07T23:19:19.386Z",
+    "warrantyEnd": "2031-05-07T23:19:19.386Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_118",
+    "plantId": "PLANT_118",
+    "equipType": "MAIN_INLET_VALVE",
+    "model": "Andritz Hydro Francis Turbine 15MW",
+    "installedOn": "2025-10-21T19:47:19.362Z",
+    "warrantyEnd": "2030-10-21T19:47:19.362Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_119",
+    "plantId": "PLANT_119",
+    "equipType": "FRANCIS_RUNNER",
+    "model": "Voith Hydro Francis F-250 High Head",
+    "installedOn": "2025-12-09T06:22:42.377Z",
+    "warrantyEnd": "2035-12-09T06:22:42.377Z",
+    "health": "GOOD"
+  },
+  {
+    "equipmentId": "EQUIP_120",
+    "plantId": "PLANT_120",
+    "equipType": "PENSTOCK_MONITOR",
+    "model": "BHEL Digital Electro-Hydraulic Governor",
+    "installedOn": "2026-03-24T04:45:56.595Z",
+    "warrantyEnd": "2033-03-24T04:45:56.595Z",
+    "health": "WARNING"
+  }
+]

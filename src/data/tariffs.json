@@ -1,0 +1,23 @@
+[
+  {
+    "tariffId": "TARIFF_HOUSEHOLD",
+    "category": "HOUSEHOLD",
+    "importRate": 6.5,
+    "unit": "INR/kWh",
+    "description": "Domestic residential retail tariff with solar net-metering"
+  },
+  {
+    "tariffId": "TARIFF_COMMERCIAL",
+    "category": "COMMERCIAL",
+    "importRate": 8.5,
+    "unit": "INR/kWh",
+    "description": "Commercial establishments, malls, tech hubs, and healthcare"
+  },
+  {
+    "tariffId": "TARIFF_INDUSTRIAL",
+    "category": "INDUSTRIAL",
+    "importRate": 7.5,
+    "unit": "INR/kWh",
+    "description": "High-tension and medium-tension manufacturing industries"
+  }
+]

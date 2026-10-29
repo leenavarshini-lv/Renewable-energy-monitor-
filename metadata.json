@@ -1,0 +1,6 @@
+{
+  "name": "REMS Console - PostgreSQL Administration & Demo System",
+  "description": "Production database administration, live SQL console, interactive ER diagram, and relational feature demo system for the Renewable Energy Management System (schema 'rems').",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "consumerId": "CONS_001",
+    "name": "Pari Chopra",
+    "category": "HOUSEHOLD",
+    "address": "18, Sector 14 MIDC, Aurangabad, Maharashtra - 398279",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_002",
+    "name": "Sai Joshi",
+    "category": "HOUSEHOLD",
+    "address": "412, Banjara Hills Rd 12, Aurangabad, Maharashtra - 482615",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_003",
+    "name": "Saanvi Pillai",
+    "category": "HOUSEHOLD",
+    "address": "831, Ring Road, Vijayawada, Andhra Pradesh - 388774",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_004",
+    "name": "Aarav Kulkarni",
+    "category": "HOUSEHOLD",
+    "address": "356, Brigade Cross, Jaipur, Rajasthan - 194350",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_005",
+    "name": "Harish Joshi",
+    "category": "HOUSEHOLD",
+    "address": "874, Anna Salai, Bikaner, Rajasthan - 388399",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_006",
+    "name": "Suresh Chatterjee",
+    "category": "HOUSEHOLD",
+    "address": "427, Anna Salai, Jabalpur, Madhya Pradesh - 621116",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_007",
+    "name": "Aditya Nair",
+    "category": "HOUSEHOLD",
+    "address": "864, Anna Salai, Tirupati, Andhra Pradesh - 409148",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_008",
+    "name": "Alok Verma",
+    "category": "HOUSEHOLD",
+    "address": "487, SV Road, Kota, Rajasthan - 241025",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_009",
+    "name": "Sunita Sharma",
+    "category": "HOUSEHOLD",
+    "address": "550, Ring Road, Tirupati, Andhra Pradesh - 197229",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_010",
+    "name": "Manoj Rao",
+    "category": "HOUSEHOLD",
+    "address": "610, Sector 14 MIDC, Bikaner, Rajasthan - 241192",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_011",
+    "name": "Suresh Nair",
+    "category": "HOUSEHOLD",
+    "address": "117, Anna Salai, Mysuru, Karnataka - 140891",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_012",
+    "name": "Sunita Malhotra",
+    "category": "HOUSEHOLD",
+    "address": "542, Ring Road, Surat, Gujarat - 408763",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_013",
+    "name": "Ishaan Verma",
+    "category": "HOUSEHOLD",
+    "address": "324, Brigade Cross, Jodhpur, Rajasthan - 340845",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_014",
+    "name": "Suresh Deshmukh",
+    "category": "HOUSEHOLD",
+    "address": "229, Brigade Cross, Nagpur, Maharashtra - 490913",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_015",
+    "name": "Ishaan Nair",
+    "category": "HOUSEHOLD",
+    "address": "759, MG Road, Indore, Madhya Pradesh - 267189",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_016",
+    "name": "Harish Reddy",
+    "category": "HOUSEHOLD",
+    "address": "18, Anna Salai, Vadodara, Gujarat - 496731",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_017",
+    "name": "Reyansh Singh",
+    "category": "HOUSEHOLD",
+    "address": "590, SV Road, Nagpur, Maharashtra - 500384",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_018",
+    "name": "Kavya Verma",
+    "category": "HOUSEHOLD",
+    "address": "804, GIDC Industrial Area, Mangaluru, Karnataka - 259305",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_019",
+    "name": "Reyansh Reddy",
+    "category": "HOUSEHOLD",
+    "address": "672, Sector 14 MIDC, Surat, Gujarat - 638183",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_020",
+    "name": "Girish Malhotra",
+    "category": "HOUSEHOLD",
+    "address": "129, Banjara Hills Rd 12, Pune, Maharashtra - 258421",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_021",
+    "name": "Arjun Reddy",
+    "category": "HOUSEHOLD",
+    "address": "415, Anna Salai, Vijayawada, Andhra Pradesh - 237488",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_022",
+    "name": "Ramesh Verma",
+    "category": "HOUSEHOLD",
+    "address": "425, SV Road, Tiruchirappalli, Tamil Nadu - 604924",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_023",
+    "name": "Saanvi Gowda",
+    "category": "HOUSEHOLD",
+    "address": "387, Banjara Hills Rd 12, Surat, Gujarat - 679912",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_024",
+    "name": "Reyansh Kulkarni",
+    "category": "HOUSEHOLD",
+    "address": "812, SV Road, Chennai, Tamil Nadu - 391113",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_025",
+    "name": "Girish Bose",
+    "category": "HOUSEHOLD",
+    "address": "171, Sector 14 MIDC, Bhopal, Madhya Pradesh - 573683",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_026",
+    "name": "Saanvi Menon",
+    "category": "HOUSEHOLD",
+    "address": "250, MG Road, Madurai, Tamil Nadu - 249567",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_027",
+    "name": "Aadhya Patel",
+    "category": "HOUSEHOLD",
+    "address": "501, Brigade Cross, Kota, Rajasthan - 183340",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_028",
+    "name": "Krishna Malhotra",
+    "category": "HOUSEHOLD",
+    "address": "460, Banjara Hills Rd 12, Pune, Maharashtra - 400954",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_029",
+    "name": "Saanvi Gowda",
+    "category": "HOUSEHOLD",
+    "address": "115, Sector 14 MIDC, Rajkot, Gujarat - 162870",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_030",
+    "name": "Ishaan Bose",
+    "category": "HOUSEHOLD",
+    "address": "644, Sector 14 MIDC, Guntur, Andhra Pradesh - 360847",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_031",
+    "name": "Ishaan Singh",
+    "category": "HOUSEHOLD",
+    "address": "543, SV Road, Nashik, Maharashtra - 143658",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_032",
+    "name": "Kavya Menon",
+    "category": "HOUSEHOLD",
+    "address": "625, Banjara Hills Rd 12, Mysuru, Karnataka - 671660",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_033",
+    "name": "Diya Rao",
+    "category": "HOUSEHOLD",
+    "address": "629, Ring Road, Chennai, Tamil Nadu - 192018",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_034",
+    "name": "Reyansh Rao",
+    "category": "HOUSEHOLD",
+    "address": "193, Banjara Hills Rd 12, Madurai, Tamil Nadu - 300960",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_035",
+    "name": "Ananya Nair",
+    "category": "HOUSEHOLD",
+    "address": "455, GIDC Industrial Area, Gwalior, Madhya Pradesh - 582027",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_036",
+    "name": "Ramesh Deshmukh",
+    "category": "HOUSEHOLD",
+    "address": "798, Anna Salai, Vijayawada, Andhra Pradesh - 392805",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_037",
+    "name": "Suresh Chopra",
+    "category": "HOUSEHOLD",
+    "address": "209, MG Road, Pune, Maharashtra - 263961",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_038",
+    "name": "Pari Gowda",
+    "category": "HOUSEHOLD",
+    "address": "531, Brigade Cross, Nagpur, Maharashtra - 241866",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_039",
+    "name": "Pari Verma",
+    "category": "HOUSEHOLD",
+    "address": "427, Ring Road, Jodhpur, Rajasthan - 139635",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_040",
+    "name": "Pari Kulkarni",
+    "category": "HOUSEHOLD",
+    "address": "475, MG Road, Gwalior, Madhya Pradesh - 549513",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_041",
+    "name": "Kavya Pillai",
+    "category": "HOUSEHOLD",
+    "address": "37, SV Road, Guntur, Andhra Pradesh - 222410",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_042",
+    "name": "Meera Iyer",
+    "category": "HOUSEHOLD",
+    "address": "221, GIDC Industrial Area, Bhopal, Madhya Pradesh - 526809",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_043",
+    "name": "Vivaan Joshi",
+    "category": "HOUSEHOLD",
+    "address": "668, Anna Salai, Mysuru, Karnataka - 119454",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_044",
+    "name": "Rajesh Reddy",
+    "category": "HOUSEHOLD",
+    "address": "448, Banjara Hills Rd 12, Indore, Madhya Pradesh - 642297",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_045",
+    "name": "Krishna Nair",
+    "category": "HOUSEHOLD",
+    "address": "615, Anna Salai, Tirupati, Andhra Pradesh - 115489",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_046",
+    "name": "Meera Rao",
+    "category": "HOUSEHOLD",
+    "address": "482, Ring Road, Tiruchirappalli, Tamil Nadu - 268219",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_047",
+    "name": "Ishaan Mehta",
+    "category": "HOUSEHOLD",
+    "address": "474, Ring Road, Bikaner, Rajasthan - 292265",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_048",
+    "name": "Rajesh Chatterjee",
+    "category": "HOUSEHOLD",
+    "address": "252, Sector 14 MIDC, Bengaluru, Karnataka - 440872",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_049",
+    "name": "Nitin Nair",
+    "category": "HOUSEHOLD",
+    "address": "93, Ring Road, Surat, Gujarat - 290347",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_050",
+    "name": "Ananya Kulkarni",
+    "category": "HOUSEHOLD",
+    "address": "880, MG Road, Mangaluru, Karnataka - 111841",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_051",
+    "name": "Vihaan Menon",
+    "category": "HOUSEHOLD",
+    "address": "25, Banjara Hills Rd 12, Rajkot, Gujarat - 686364",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_052",
+    "name": "Riya Joshi",
+    "category": "HOUSEHOLD",
+    "address": "252, Banjara Hills Rd 12, Aurangabad, Maharashtra - 455487",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_053",
+    "name": "Ananya Iyer",
+    "category": "HOUSEHOLD",
+    "address": "247, GIDC Industrial Area, Bhopal, Madhya Pradesh - 318050",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_054",
+    "name": "Vivaan Gowda",
+    "category": "HOUSEHOLD",
+    "address": "846, Sector 14 MIDC, Jabalpur, Madhya Pradesh - 664925",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_055",
+    "name": "Reyansh Nair",
+    "category": "HOUSEHOLD",
+    "address": "472, MG Road, Guntur, Andhra Pradesh - 195059",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_056",
+    "name": "Suresh Pillai",
+    "category": "HOUSEHOLD",
+    "address": "553, Anna Salai, Kota, Rajasthan - 381105",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_057",
+    "name": "Ayaan Menon",
+    "category": "HOUSEHOLD",
+    "address": "365, GIDC Industrial Area, Jaipur, Rajasthan - 550426",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_058",
+    "name": "Aadhya Joshi",
+    "category": "HOUSEHOLD",
+    "address": "196, Sector 14 MIDC, Bikaner, Rajasthan - 619614",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_059",
+    "name": "Vikram Gupta",
+    "category": "HOUSEHOLD",
+    "address": "874, Banjara Hills Rd 12, Aurangabad, Maharashtra - 333665",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_060",
+    "name": "Manoj Singh",
+    "category": "HOUSEHOLD",
+    "address": "66, SV Road, Tirupati, Andhra Pradesh - 525970",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_061",
+    "name": "Nexus IT Hub",
+    "category": "COMMERCIAL",
+    "address": "645, MG Road, Tiruchirappalli, Tamil Nadu - 121828",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_062",
+    "name": "Prestige Tech Center",
+    "category": "COMMERCIAL",
+    "address": "496, Brigade Cross, Mysuru, Karnataka - 123395",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_063",
+    "name": "Apollo Multispecialty Clinic",
+    "category": "COMMERCIAL",
+    "address": "97, MG Road, Jabalpur, Madhya Pradesh - 379101",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_064",
+    "name": "Phoenix Grand Galleria",
+    "category": "COMMERCIAL",
+    "address": "54, Sector 14 MIDC, Kota, Rajasthan - 490577",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_065",
+    "name": "Cyber Gateway Towers",
+    "category": "COMMERCIAL",
+    "address": "247, Sector 14 MIDC, Bikaner, Rajasthan - 173770",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_066",
+    "name": "Mindspace Business Complex",
+    "category": "COMMERCIAL",
+    "address": "289, Ring Road, Gwalior, Madhya Pradesh - 694537",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_067",
+    "name": "Emerald Regency Hotel",
+    "category": "COMMERCIAL",
+    "address": "529, Sector 14 MIDC, Nagpur, Maharashtra - 481417",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_068",
+    "name": "Fortis Diagnostic Center",
+    "category": "COMMERCIAL",
+    "address": "402, Anna Salai, Vijayawada, Andhra Pradesh - 640684",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_069",
+    "name": "World Trade Center Block-B",
+    "category": "COMMERCIAL",
+    "address": "658, Ring Road, Coimbatore, Tamil Nadu - 184114",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_070",
+    "name": "Kalyan Hypermarket",
+    "category": "COMMERCIAL",
+    "address": "116, Banjara Hills Rd 12, Tirupati, Andhra Pradesh - 354255",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_071",
+    "name": "Decathlon Flagship Store",
+    "category": "COMMERCIAL",
+    "address": "385, Ring Road, Jodhpur, Rajasthan - 411399",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_072",
+    "name": "Titan Corporate Office",
+    "category": "COMMERCIAL",
+    "address": "63, Brigade Cross, Visakhapatnam, Andhra Pradesh - 479486",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_073",
+    "name": "Manipal Health Clinic",
+    "category": "COMMERCIAL",
+    "address": "149, Banjara Hills Rd 12, Tiruchirappalli, Tamil Nadu - 673392",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_074",
+    "name": "Radisson Blu Express",
+    "category": "COMMERCIAL",
+    "address": "679, Banjara Hills Rd 12, Indore, Madhya Pradesh - 371735",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_075",
+    "name": "Lulu Shopping Hub",
+    "category": "COMMERCIAL",
+    "address": "843, Brigade Cross, Pune, Maharashtra - 410894",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_076",
+    "name": "Nexus IT Hub",
+    "category": "COMMERCIAL",
+    "address": "382, Anna Salai, Guntur, Andhra Pradesh - 586065",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_077",
+    "name": "Prestige Tech Center",
+    "category": "COMMERCIAL",
+    "address": "652, GIDC Industrial Area, Gwalior, Madhya Pradesh - 242617",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_078",
+    "name": "Apollo Multispecialty Clinic",
+    "category": "COMMERCIAL",
+    "address": "817, Banjara Hills Rd 12, Vijayawada, Andhra Pradesh - 600832",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_079",
+    "name": "Phoenix Grand Galleria",
+    "category": "COMMERCIAL",
+    "address": "356, Banjara Hills Rd 12, Tiruchirappalli, Tamil Nadu - 671834",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_080",
+    "name": "Cyber Gateway Towers",
+    "category": "COMMERCIAL",
+    "address": "447, MG Road, Kota, Rajasthan - 498466",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_081",
+    "name": "Mindspace Business Complex",
+    "category": "COMMERCIAL",
+    "address": "355, GIDC Industrial Area, Kota, Rajasthan - 508543",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_082",
+    "name": "Emerald Regency Hotel",
+    "category": "COMMERCIAL",
+    "address": "56, Brigade Cross, Jaipur, Rajasthan - 562809",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_083",
+    "name": "Fortis Diagnostic Center",
+    "category": "COMMERCIAL",
+    "address": "237, MG Road, Mangaluru, Karnataka - 642464",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_084",
+    "name": "World Trade Center Block-B",
+    "category": "COMMERCIAL",
+    "address": "813, SV Road, Hubballi, Karnataka - 496886",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_085",
+    "name": "Kalyan Hypermarket",
+    "category": "COMMERCIAL",
+    "address": "307, MG Road, Jabalpur, Madhya Pradesh - 241848",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_086",
+    "name": "Decathlon Flagship Store",
+    "category": "COMMERCIAL",
+    "address": "533, Ring Road, Surat, Gujarat - 312768",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_087",
+    "name": "Titan Corporate Office",
+    "category": "COMMERCIAL",
+    "address": "251, Anna Salai, Chennai, Tamil Nadu - 212535",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_088",
+    "name": "Manipal Health Clinic",
+    "category": "COMMERCIAL",
+    "address": "536, Brigade Cross, Bengaluru, Karnataka - 574869",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_089",
+    "name": "Radisson Blu Express",
+    "category": "COMMERCIAL",
+    "address": "806, MG Road, Mysuru, Karnataka - 561637",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_090",
+    "name": "Lulu Shopping Hub",
+    "category": "COMMERCIAL",
+    "address": "767, Anna Salai, Hubballi, Karnataka - 513482",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_091",
+    "name": "Nexus IT Hub",
+    "category": "COMMERCIAL",
+    "address": "718, Sector 14 MIDC, Nashik, Maharashtra - 235976",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_092",
+    "name": "Prestige Tech Center",
+    "category": "COMMERCIAL",
+    "address": "563, Sector 14 MIDC, Tirupati, Andhra Pradesh - 642043",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_093",
+    "name": "Apollo Multispecialty Clinic",
+    "category": "COMMERCIAL",
+    "address": "434, MG Road, Mysuru, Karnataka - 502194",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_094",
+    "name": "Phoenix Grand Galleria",
+    "category": "COMMERCIAL",
+    "address": "325, Anna Salai, Pune, Maharashtra - 406240",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_095",
+    "name": "Cyber Gateway Towers",
+    "category": "COMMERCIAL",
+    "address": "293, Banjara Hills Rd 12, Jodhpur, Rajasthan - 238272",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_096",
+    "name": "Mindspace Business Complex",
+    "category": "COMMERCIAL",
+    "address": "656, SV Road, Nashik, Maharashtra - 455858",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_097",
+    "name": "Kaveri Spinning & Weaving Mills",
+    "category": "INDUSTRIAL",
+    "address": "441, MG Road, Indore, Madhya Pradesh - 569113",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_098",
+    "name": "Bharat Heavy Forgings Ltd",
+    "category": "INDUSTRIAL",
+    "address": "731, Anna Salai, Bengaluru, Karnataka - 630222",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_099",
+    "name": "Sundaram Precision Auto Components",
+    "category": "INDUSTRIAL",
+    "address": "793, Anna Salai, Coimbatore, Tamil Nadu - 608526",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_100",
+    "name": "Deccan Electro-Steel Foundry",
+    "category": "INDUSTRIAL",
+    "address": "123, SV Road, Gwalior, Madhya Pradesh - 346365",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_101",
+    "name": "Godavari Agro Food Processing",
+    "category": "INDUSTRIAL",
+    "address": "845, Brigade Cross, Guntur, Andhra Pradesh - 684189",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_102",
+    "name": "Gujarat Polymer & Resins Plant",
+    "category": "INDUSTRIAL",
+    "address": "431, Anna Salai, Nashik, Maharashtra - 141511",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_103",
+    "name": "Vindhya Chemical Synthetics",
+    "category": "INDUSTRIAL",
+    "address": "792, Brigade Cross, Nashik, Maharashtra - 474522",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_104",
+    "name": "Coromandel Glass Works",
+    "category": "INDUSTRIAL",
+    "address": "882, Brigade Cross, Bikaner, Rajasthan - 679427",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_105",
+    "name": "Kirloskar Pump Assembly Works",
+    "category": "INDUSTRIAL",
+    "address": "61, Sector 14 MIDC, Gwalior, Madhya Pradesh - 673841",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_106",
+    "name": "Tata AutoComp Casting Div",
+    "category": "INDUSTRIAL",
+    "address": "62, SV Road, Coimbatore, Tamil Nadu - 271385",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_107",
+    "name": "Birla Carbon Industries",
+    "category": "INDUSTRIAL",
+    "address": "800, Banjara Hills Rd 12, Gwalior, Madhya Pradesh - 126770",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_108",
+    "name": "Jindal Extrusions Unit 4",
+    "category": "INDUSTRIAL",
+    "address": "574, SV Road, Pune, Maharashtra - 149913",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_109",
+    "name": "Kaveri Spinning & Weaving Mills",
+    "category": "INDUSTRIAL",
+    "address": "112, GIDC Industrial Area, Nagpur, Maharashtra - 123021",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_110",
+    "name": "Bharat Heavy Forgings Ltd",
+    "category": "INDUSTRIAL",
+    "address": "557, Ring Road, Coimbatore, Tamil Nadu - 644085",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_111",
+    "name": "Sundaram Precision Auto Components",
+    "category": "INDUSTRIAL",
+    "address": "721, Ring Road, Tiruchirappalli, Tamil Nadu - 552839",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_112",
+    "name": "Deccan Electro-Steel Foundry",
+    "category": "INDUSTRIAL",
+    "address": "32, MG Road, Bikaner, Rajasthan - 217835",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_113",
+    "name": "Godavari Agro Food Processing",
+    "category": "INDUSTRIAL",
+    "address": "478, Sector 14 MIDC, Jaipur, Rajasthan - 524372",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_114",
+    "name": "Gujarat Polymer & Resins Plant",
+    "category": "INDUSTRIAL",
+    "address": "872, Anna Salai, Tiruchirappalli, Tamil Nadu - 641297",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_115",
+    "name": "Vindhya Chemical Synthetics",
+    "category": "INDUSTRIAL",
+    "address": "453, Sector 14 MIDC, Bhopal, Madhya Pradesh - 387372",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_116",
+    "name": "Coromandel Glass Works",
+    "category": "INDUSTRIAL",
+    "address": "466, Sector 14 MIDC, Mangaluru, Karnataka - 599480",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_117",
+    "name": "Kirloskar Pump Assembly Works",
+    "category": "INDUSTRIAL",
+    "address": "30, Sector 14 MIDC, Rajkot, Gujarat - 681126",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_118",
+    "name": "Tata AutoComp Casting Div",
+    "category": "INDUSTRIAL",
+    "address": "793, Ring Road, Hubballi, Karnataka - 691318",
+    "hasSolar": false
+  },
+  {
+    "consumerId": "CONS_119",
+    "name": "Birla Carbon Industries",
+    "category": "INDUSTRIAL",
+    "address": "160, Banjara Hills Rd 12, Hubballi, Karnataka - 181598",
+    "hasSolar": true
+  },
+  {
+    "consumerId": "CONS_120",
+    "name": "Jindal Extrusions Unit 4",
+    "category": "INDUSTRIAL",
+    "address": "98, Anna Salai, Aurangabad, Maharashtra - 148268",
+    "hasSolar": false
+  }
+]

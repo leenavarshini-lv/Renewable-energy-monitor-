@@ -1,0 +1,962 @@
+[
+  {
+    "alertId": "ALERT_001",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_089",
+    "message": "Rotor speed mismatch alert at Brahmanvel Wind Farm Turb-3: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-04-10T06:47:02.645Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_002",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_064",
+    "message": "Critical SoC drop detected on Battery Bank BATT_064 (35%) at Tuppadahalli Wind Facility. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-14T05:07:38.306Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_003",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_062",
+    "message": "Rotor speed mismatch alert at Vankusawade Wind Park: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2025-10-23T16:48:35.118Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_004",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_007",
+    "message": "Critical SoC drop detected on Battery Bank BATT_007 (27%) at Kurnool Ultra Solar Park. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-09T08:57:21.060Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_005",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_064",
+    "message": "Critical SoC drop detected on Battery Bank BATT_064 (35%) at Tuppadahalli Wind Facility. Grid stabilization threshold breached.",
+    "createdAt": "2026-03-11T00:50:37.619Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_006",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_029",
+    "message": "Sub-nominal power generation alert at Kadapa Ultra Mega Solar Sec-2: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2025-10-19T09:21:41.336Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_007",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_074",
+    "message": "Asset lifecycle notice: Manufacturer warranty for GE Vernova 2.7-116 DFIG Generator (WIND_TURBINE_NACELLE) at Brahmanvel Wind Farm Turb-2 expires on 2029-03-18. Schedule OEM inspection.",
+    "createdAt": "2026-01-24T23:54:37.085Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_008",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_116",
+    "message": "Critical SoC drop detected on Battery Bank BATT_116 (71%) at Chamera Stage III Hydro Gen-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-23T18:24:20.424Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_009",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_021",
+    "message": "Critical SoC drop detected on Battery Bank BATT_021 (42%) at Pavagada Solar Complex East Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-13T02:56:10.380Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_010",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_048",
+    "message": "Critical SoC drop detected on Battery Bank BATT_048 (48%) at Fatehgarh Solar Hub Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-08-08T08:06:41.367Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_011",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_065",
+    "message": "Critical SoC drop detected on Battery Bank BATT_065 (17%) at Kukru Wind Park. Grid stabilization threshold breached.",
+    "createdAt": "2026-09-29T09:04:55.553Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_012",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_106",
+    "message": "Hydraulic discharge flow restriction alert at Karcham Wangtoo Hydro Station: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-03-14T17:13:40.308Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_013",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_099",
+    "message": "Hydraulic discharge flow restriction alert at Nathpa Jhakri Hydel Unit: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-01-30T14:03:25.360Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_014",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_007",
+    "message": "Asset lifecycle notice: Manufacturer warranty for SMA Sunny Central 2500-EV (CENTRAL_INVERTER) at Kurnool Ultra Solar Park expires on 2035-11-05. Schedule OEM inspection.",
+    "createdAt": "2026-09-10T06:38:12.375Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_015",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_064",
+    "message": "Rotor speed mismatch alert at Tuppadahalli Wind Facility: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-09-02T11:20:13.235Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_016",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_094",
+    "message": "Rotor speed mismatch alert at Tuppadahalli Wind Facility Turb-3: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-01-24T13:15:44.448Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_017",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_117",
+    "message": "Hydraulic discharge flow restriction alert at Srisailam Right Bank Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-03-02T21:07:34.855Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_018",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_045",
+    "message": "Asset lifecycle notice: Manufacturer warranty for SMA Sunny Central 2500-EV (SINGLE_AXIS_TRACKER) at Dholera Solar Array A Sec-3 expires on 2032-12-25. Schedule OEM inspection.",
+    "createdAt": "2026-06-08T00:48:46.593Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_019",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_091",
+    "message": "Critical SoC drop detected on Battery Bank BATT_091 (89%) at Dhalgaon Wind Cluster Turb-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-25T13:03:27.520Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_020",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_035",
+    "message": "Sub-nominal power generation alert at Nokh Solar Park Unit 2 Sec-2: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2026-08-07T14:01:14.278Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_021",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_001",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (SINGLE_AXIS_TRACKER) at Bhadla Solar Park Ph-I expires on 2029-04-25. Schedule OEM inspection.",
+    "createdAt": "2026-01-14T03:38:56.632Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_022",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_088",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Thies Clima Ultrasonic Anemometer 2D (ANEMOMETER_MAST) at Jaisalmer Wind Park Cluster 1 Turb-3 expires on 2036-06-17. Schedule OEM inspection.",
+    "createdAt": "2026-08-05T19:14:40.007Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_023",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_083",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Thies Clima Ultrasonic Anemometer 2D (GENERATOR_UNIT) at Kutch Wind Energy Park Turb-2 expires on 2031-01-28. Schedule OEM inspection.",
+    "createdAt": "2026-07-27T23:00:37.461Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_024",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_116",
+    "message": "Hydraulic discharge flow restriction alert at Chamera Stage III Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-07-19T22:42:37.780Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_025",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_087",
+    "message": "Rotor speed mismatch alert at Muppandal Wind Farm South Turb-3: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-02-27T18:14:30.080Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_026",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_006",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Schneider Conext Core XC 1000V (SINGLE_AXIS_TRACKER) at Charanka Solar Hub expires on 2029-03-26. Schedule OEM inspection.",
+    "createdAt": "2026-07-30T18:50:11.038Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_027",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_055",
+    "message": "Sub-nominal power generation alert at Bhadla Solar Park Ph-I Sec-4: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2026-01-13T19:15:06.547Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_028",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_050",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (CENTRAL_INVERTER) at Neemuch Solar Farm Sec-3 expires on 2031-06-06. Schedule OEM inspection.",
+    "createdAt": "2026-04-29T05:33:55.381Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_029",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_020",
+    "message": "Critical SoC drop detected on Battery Bank BATT_020 (93%) at Bhadla Solar Park Ph-II Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-01-22T16:51:03.090Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_030",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_086",
+    "message": "Critical SoC drop detected on Battery Bank BATT_086 (75%) at Muppandal Wind Farm North Turb-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-01T21:50:44.856Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_031",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_102",
+    "message": "Critical SoC drop detected on Battery Bank BATT_102 (12%) at Sardar Sarovar Canal Hydro. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-15T23:47:40.171Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_032",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_067",
+    "message": "Critical SoC drop detected on Battery Bank BATT_067 (22%) at Chitradurga Wind Heights. Grid stabilization threshold breached.",
+    "createdAt": "2026-03-19T10:45:35.132Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_033",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_056",
+    "message": "Critical SoC drop detected on Battery Bank BATT_056 (44%) at Muppandal Wind Farm North. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-12T03:52:31.320Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_034",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_026",
+    "message": "Critical SoC drop detected on Battery Bank BATT_026 (89%) at Ananthapuramu Solar Facility Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-06-02T13:05:25.316Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_035",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_112",
+    "message": "Critical SoC drop detected on Battery Bank BATT_112 (16%) at Bhakra Nangal Hydro Terminal Gen-2. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-11T03:08:41.287Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_036",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_063",
+    "message": "Rotor speed mismatch alert at Beluguppa Wind Farm: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-03-01T14:19:16.165Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_037",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_080",
+    "message": "Critical SoC drop detected on Battery Bank BATT_080 (95%) at Kukru Wind Park Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-19T10:09:39.324Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_038",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_059",
+    "message": "Critical SoC drop detected on Battery Bank BATT_059 (95%) at Brahmanvel Wind Farm. Grid stabilization threshold breached.",
+    "createdAt": "2026-01-30T08:27:10.617Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_039",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_071",
+    "message": "Critical SoC drop detected on Battery Bank BATT_071 (87%) at Muppandal Wind Farm North Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-03-31T01:08:17.438Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_040",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_002",
+    "message": "Asset lifecycle notice: Manufacturer warranty for ABB PVS980-58 Central 2000kVA (SINGLE_AXIS_TRACKER) at Bhadla Solar Park Ph-II expires on 2029-04-16. Schedule OEM inspection.",
+    "createdAt": "2025-12-31T17:13:44.839Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_041",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_095",
+    "message": "Critical SoC drop detected on Battery Bank BATT_095 (29%) at Kukru Wind Park Turb-3. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-26T11:41:43.765Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_042",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_108",
+    "message": "Hydraulic discharge flow restriction alert at Koyna Stage IV Hydro Project Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-02-08T00:54:49.320Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_043",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_007",
+    "message": "Asset lifecycle notice: Manufacturer warranty for SMA Sunny Central 2500-EV (CENTRAL_INVERTER) at Kurnool Ultra Solar Park expires on 2035-11-05. Schedule OEM inspection.",
+    "createdAt": "2026-03-03T09:22:08.708Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_044",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_084",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Vestas V150-4.2 MW Nacelle Assembly (WIND_TURBINE_NACELLE) at Satara Wind Range Turb-2 expires on 2035-10-15. Schedule OEM inspection.",
+    "createdAt": "2026-09-27T05:56:17.514Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_045",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_063",
+    "message": "Critical SoC drop detected on Battery Bank BATT_063 (91%) at Beluguppa Wind Farm. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-11T17:37:27.784Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_046",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_081",
+    "message": "Rotor speed mismatch alert at Sangli Wind Park Turb-2: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-04-12T07:50:54.852Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_047",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_053",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Kipp & Zonen CMP11 Pyranometer (SINGLE_AXIS_TRACKER) at Nokh Solar Park Unit 2 Sec-3 expires on 2033-03-24. Schedule OEM inspection.",
+    "createdAt": "2026-08-29T01:21:01.220Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_048",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_050",
+    "message": "Critical SoC drop detected on Battery Bank BATT_050 (64%) at Neemuch Solar Farm Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-08-18T09:06:16.604Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_049",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_101",
+    "message": "Hydraulic discharge flow restriction alert at Idukki Arch Dam Hydro: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-03-08T02:32:12.669Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_050",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_064",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Thies Clima Ultrasonic Anemometer 2D (YAW_DRIVE_MOTOR) at Tuppadahalli Wind Facility expires on 2033-04-02. Schedule OEM inspection.",
+    "createdAt": "2025-11-25T14:43:10.117Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_051",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_113",
+    "message": "Hydraulic discharge flow restriction alert at Idukki Arch Dam Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-04-22T21:02:17.830Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_052",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_110",
+    "message": "Hydraulic discharge flow restriction alert at Sharavathi Hydro Station Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-03-25T02:39:05.807Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_053",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_059",
+    "message": "Critical SoC drop detected on Battery Bank BATT_059 (95%) at Brahmanvel Wind Farm. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-20T01:27:21.731Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_054",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_058",
+    "message": "Critical SoC drop detected on Battery Bank BATT_058 (32%) at Jaisalmer Wind Park Cluster 1. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-11T09:29:49.569Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_055",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_051",
+    "message": "Critical SoC drop detected on Battery Bank BATT_051 (64%) at Surendranagar Solar Station Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-02T21:00:30.197Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_056",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_081",
+    "message": "Critical SoC drop detected on Battery Bank BATT_081 (50%) at Sangli Wind Park Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-09-06T11:52:28.606Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_057",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_019",
+    "message": "Sub-nominal power generation alert at Bhadla Solar Park Ph-I Sec-2: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2026-07-26T01:42:44.330Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_058",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_058",
+    "message": "Rotor speed mismatch alert at Jaisalmer Wind Park Cluster 1: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-08-05T05:42:57.555Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_059",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_042",
+    "message": "Critical SoC drop detected on Battery Bank BATT_042 (29%) at Charanka Solar Hub Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2025-11-16T12:24:20.830Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_060",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_053",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Kipp & Zonen CMP11 Pyranometer (SINGLE_AXIS_TRACKER) at Nokh Solar Park Unit 2 Sec-3 expires on 2033-03-24. Schedule OEM inspection.",
+    "createdAt": "2026-04-27T07:15:30.195Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_061",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_032",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (PYRANOMETER_STATION) at Neemuch Solar Farm Sec-2 expires on 2031-06-10. Schedule OEM inspection.",
+    "createdAt": "2026-04-07T21:40:19.079Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_062",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_116",
+    "message": "Critical SoC drop detected on Battery Bank BATT_116 (71%) at Chamera Stage III Hydro Gen-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-01-14T01:06:19.805Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_063",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_007",
+    "message": "Asset lifecycle notice: Manufacturer warranty for SMA Sunny Central 2500-EV (CENTRAL_INVERTER) at Kurnool Ultra Solar Park expires on 2035-11-05. Schedule OEM inspection.",
+    "createdAt": "2026-09-07T20:00:06.450Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_064",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_080",
+    "message": "Rotor speed mismatch alert at Kukru Wind Park Turb-2: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-02-15T00:54:36.967Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_065",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_098",
+    "message": "Critical SoC drop detected on Battery Bank BATT_098 (39%) at Sharavathi Hydro Station. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-31T03:08:59.917Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_066",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_070",
+    "message": "Rotor speed mismatch alert at Gadag Wind Farm: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2025-10-08T21:25:24.081Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_067",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_085",
+    "message": "Critical SoC drop detected on Battery Bank BATT_085 (64%) at Gadag Wind Farm Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-02-28T12:07:14.279Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_068",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_042",
+    "message": "Critical SoC drop detected on Battery Bank BATT_042 (29%) at Charanka Solar Hub Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-26T05:59:36.612Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_069",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_077",
+    "message": "Critical SoC drop detected on Battery Bank BATT_077 (15%) at Vankusawade Wind Park Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-02T01:51:01.882Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_070",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_061",
+    "message": "Critical SoC drop detected on Battery Bank BATT_061 (21%) at Dhalgaon Wind Cluster. Grid stabilization threshold breached.",
+    "createdAt": "2026-05-04T13:36:14.628Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_071",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_030",
+    "message": "Critical SoC drop detected on Battery Bank BATT_030 (77%) at Fatehgarh Solar Hub Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-06-23T12:30:25.201Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_072",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_098",
+    "message": "Critical SoC drop detected on Battery Bank BATT_098 (39%) at Sharavathi Hydro Station. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-24T13:55:21.038Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_073",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_012",
+    "message": "Sub-nominal power generation alert at Fatehgarh Solar Hub: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2026-03-30T03:50:39.304Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_074",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_018",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (SINGLE_AXIS_TRACKER) at Banaskantha Solar Farm expires on 2028-12-16. Schedule OEM inspection.",
+    "createdAt": "2026-02-22T22:23:43.836Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_075",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_057",
+    "message": "Rotor speed mismatch alert at Muppandal Wind Farm South: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2025-10-31T14:10:05.650Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_076",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_008",
+    "message": "Critical SoC drop detected on Battery Bank BATT_008 (93%) at Ananthapuramu Solar Facility. Grid stabilization threshold breached.",
+    "createdAt": "2026-02-11T12:12:38.821Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_077",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_018",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (SINGLE_AXIS_TRACKER) at Banaskantha Solar Farm expires on 2028-12-16. Schedule OEM inspection.",
+    "createdAt": "2026-03-26T04:26:08.640Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_078",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_083",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Thies Clima Ultrasonic Anemometer 2D (GENERATOR_UNIT) at Kutch Wind Energy Park Turb-2 expires on 2031-01-28. Schedule OEM inspection.",
+    "createdAt": "2026-04-01T03:34:07.844Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_079",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_024",
+    "message": "Critical SoC drop detected on Battery Bank BATT_024 (54%) at Charanka Solar Hub Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-01-19T02:16:44.339Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_080",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_109",
+    "message": "Hydraulic discharge flow restriction alert at Tehri Pumped Storage Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-08-02T08:22:03.460Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_081",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_112",
+    "message": "Asset lifecycle notice: Manufacturer warranty for BHEL Digital Electro-Hydraulic Governor (PENSTOCK_MONITOR) at Bhakra Nangal Hydro Terminal Gen-2 expires on 2036-05-07. Schedule OEM inspection.",
+    "createdAt": "2026-01-26T02:54:05.132Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_082",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_026",
+    "message": "Sub-nominal power generation alert at Ananthapuramu Solar Facility Sec-2: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2026-08-20T16:21:18.075Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_083",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_024",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (STRING_INVERTER) at Charanka Solar Hub Sec-2 expires on 2030-12-12. Schedule OEM inspection.",
+    "createdAt": "2026-01-04T00:02:20.632Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_084",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_046",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (CENTRAL_INVERTER) at Mandsaur Solar Plant Sec-3 expires on 2032-11-01. Schedule OEM inspection.",
+    "createdAt": "2025-12-24T05:06:19.932Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_085",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_017",
+    "message": "Critical SoC drop detected on Battery Bank BATT_017 (81%) at Nokh Solar Park Unit 2. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-26T21:57:41.505Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_086",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_117",
+    "message": "Hydraulic discharge flow restriction alert at Srisailam Right Bank Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-09-03T23:31:14.654Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_087",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_026",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (CENTRAL_INVERTER) at Ananthapuramu Solar Facility Sec-2 expires on 2032-10-07. Schedule OEM inspection.",
+    "createdAt": "2026-08-04T16:19:31.464Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_088",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_010",
+    "message": "Critical SoC drop detected on Battery Bank BATT_010 (68%) at Mandsaur Solar Plant. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-01T16:21:51.736Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_089",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_080",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Vestas V150-4.2 MW Nacelle Assembly (YAW_DRIVE_MOTOR) at Kukru Wind Park Turb-2 expires on 2033-03-17. Schedule OEM inspection.",
+    "createdAt": "2025-12-21T12:16:08.665Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_090",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_081",
+    "message": "Rotor speed mismatch alert at Sangli Wind Park Turb-2: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-04-12T04:26:50.215Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_091",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_032",
+    "message": "Critical SoC drop detected on Battery Bank BATT_032 (65%) at Neemuch Solar Farm Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-07-17T16:12:03.536Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_092",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_082",
+    "message": "Rotor speed mismatch alert at Chitradurga Wind Heights Turb-2: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-02-12T15:01:13.592Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_093",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_032",
+    "message": "Critical SoC drop detected on Battery Bank BATT_032 (65%) at Neemuch Solar Farm Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2025-10-13T01:06:13.221Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_094",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_053",
+    "message": "Critical SoC drop detected on Battery Bank BATT_053 (26%) at Nokh Solar Park Unit 2 Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-30T05:18:38.592Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_095",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_099",
+    "message": "Asset lifecycle notice: Manufacturer warranty for BHEL Digital Electro-Hydraulic Governor (FRANCIS_RUNNER) at Nathpa Jhakri Hydel Unit expires on 2031-03-18. Schedule OEM inspection.",
+    "createdAt": "2026-04-21T06:01:35.003Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_096",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_117",
+    "message": "Hydraulic discharge flow restriction alert at Srisailam Right Bank Hydro Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2025-11-28T12:25:34.924Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_097",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_023",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (SINGLE_AXIS_TRACKER) at Kamuthi Photovoltaic Station Sec-2 expires on 2031-01-23. Schedule OEM inspection.",
+    "createdAt": "2026-08-26T02:39:23.016Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_098",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_031",
+    "message": "Critical SoC drop detected on Battery Bank BATT_031 (28%) at Kaza High-Altitude Solar Sec-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-01-20T00:47:26.881Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_099",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_043",
+    "message": "Sub-nominal power generation alert at Kurnool Ultra Solar Park Sec-3: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2025-10-08T08:44:41.038Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_100",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_085",
+    "message": "Critical SoC drop detected on Battery Bank BATT_085 (64%) at Gadag Wind Farm Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-05-13T09:01:47.275Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_101",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_089",
+    "message": "Rotor speed mismatch alert at Brahmanvel Wind Farm Turb-3: Yaw misalignment detected under prevailing 14.2 m/s wind velocity.",
+    "createdAt": "2026-07-08T10:37:31.969Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_102",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_087",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Suzlon S120 Hybrid Lattice Nacelle (GENERATOR_UNIT) at Muppandal Wind Farm South Turb-3 expires on 2031-06-13. Schedule OEM inspection.",
+    "createdAt": "2026-09-27T12:44:25.955Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_103",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_096",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Andritz Hydro Francis Turbine 15MW (HYDRO_TURBINE_GOVERNOR) at Koyna Stage IV Hydro Project expires on 2036-01-15. Schedule OEM inspection.",
+    "createdAt": "2026-07-14T09:03:59.906Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_104",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_044",
+    "message": "Asset lifecycle notice: Manufacturer warranty for ABB PVS980-58 Central 2000kVA (SOLAR_ARRAY_COMBINER) at Ananthapuramu Solar Facility Sec-3 expires on 2035-11-27. Schedule OEM inspection.",
+    "createdAt": "2025-11-25T05:19:30.402Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_105",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_069",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Suzlon S120 Hybrid Lattice Nacelle (YAW_DRIVE_MOTOR) at Satara Wind Range expires on 2032-11-23. Schedule OEM inspection.",
+    "createdAt": "2026-03-27T23:49:51.132Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_106",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_054",
+    "message": "Critical SoC drop detected on Battery Bank BATT_054 (72%) at Banaskantha Solar Farm Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-04-08T08:52:48.731Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_107",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_073",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Siemens Gamesa SG 3.4-132 Turbine Gen (WIND_TURBINE_NACELLE) at Jaisalmer Wind Park Cluster 1 Turb-2 expires on 2028-11-15. Schedule OEM inspection.",
+    "createdAt": "2026-02-16T17:13:36.717Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_108",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_023",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Nextracker Horizon Single-Axis Gen2 (SINGLE_AXIS_TRACKER) at Kamuthi Photovoltaic Station Sec-2 expires on 2031-01-23. Schedule OEM inspection.",
+    "createdAt": "2025-10-04T12:39:39.537Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_109",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_022",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (SOLAR_ARRAY_COMBINER) at Rewa Ultra Mega Solar Sec-2 expires on 2036-01-03. Schedule OEM inspection.",
+    "createdAt": "2026-07-17T04:26:13.333Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_110",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_111",
+    "message": "Asset lifecycle notice: Manufacturer warranty for BHEL Digital Electro-Hydraulic Governor (MAIN_INLET_VALVE) at Nathpa Jhakri Hydel Unit Gen-2 expires on 2036-03-23. Schedule OEM inspection.",
+    "createdAt": "2026-09-26T06:28:45.073Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_111",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_103",
+    "message": "Critical SoC drop detected on Battery Bank BATT_103 (19%) at Baspa II Hydroelectric Project. Grid stabilization threshold breached.",
+    "createdAt": "2026-06-14T05:20:17.396Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_112",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_044",
+    "message": "Sub-nominal power generation alert at Ananthapuramu Solar Facility Sec-3: Inverter cluster reporting 42% deviation against pyranometer irradiance index.",
+    "createdAt": "2025-10-14T03:08:44.014Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_113",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_032",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Sungrow SG250HX String Inverter (PYRANOMETER_STATION) at Neemuch Solar Farm Sec-2 expires on 2031-06-10. Schedule OEM inspection.",
+    "createdAt": "2026-02-15T05:58:23.754Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_114",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_040",
+    "message": "Critical SoC drop detected on Battery Bank BATT_040 (82%) at Rewa Ultra Mega Solar Sec-3. Grid stabilization threshold breached.",
+    "createdAt": "2026-05-14T12:23:27.226Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_115",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_055",
+    "message": "Critical SoC drop detected on Battery Bank BATT_055 (21%) at Bhadla Solar Park Ph-I Sec-4. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-23T03:54:16.765Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_116",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_073",
+    "message": "Critical SoC drop detected on Battery Bank BATT_073 (83%) at Jaisalmer Wind Park Cluster 1 Turb-2. Grid stabilization threshold breached.",
+    "createdAt": "2026-09-14T18:34:50.449Z",
+    "resolved": true
+  },
+  {
+    "alertId": "ALERT_117",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_034",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Kipp & Zonen CMP11 Pyranometer (PYRANOMETER_STATION) at Nokh Solar Park Unit 1 Sec-2 expires on 2035-10-31. Schedule OEM inspection.",
+    "createdAt": "2025-12-05T16:55:29.141Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_118",
+    "type": "WARRANTY_EXPIRY",
+    "refId": "EQUIP_118",
+    "message": "Asset lifecycle notice: Manufacturer warranty for Andritz Hydro Francis Turbine 15MW (MAIN_INLET_VALVE) at Karcham Wangtoo Hydro Station Gen-2 expires on 2030-10-21. Schedule OEM inspection.",
+    "createdAt": "2026-03-09T17:37:30.436Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_119",
+    "type": "LOW_BATTERY",
+    "refId": "BATT_001",
+    "message": "Critical SoC drop detected on Battery Bank BATT_001 (26%) at Bhadla Solar Park Ph-I. Grid stabilization threshold breached.",
+    "createdAt": "2025-12-30T10:01:15.100Z",
+    "resolved": false
+  },
+  {
+    "alertId": "ALERT_120",
+    "type": "LOW_OUTPUT",
+    "refId": "PLANT_118",
+    "message": "Hydraulic discharge flow restriction alert at Karcham Wangtoo Hydro Station Gen-2: Penstock pressure drop exceeding safety limits by 18%.",
+    "createdAt": "2026-02-05T23:30:43.426Z",
+    "resolved": true
+  }
+]

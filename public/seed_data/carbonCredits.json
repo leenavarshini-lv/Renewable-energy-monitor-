@@ -1,0 +1,842 @@
+[
+  {
+    "creditId": "CC_001",
+    "plantId": "PLANT_001",
+    "month": "2026-02",
+    "unitsKwh": 8367000,
+    "co2AvoidedKg": 5940570
+  },
+  {
+    "creditId": "CC_002",
+    "plantId": "PLANT_002",
+    "month": "2026-02",
+    "unitsKwh": 12829500,
+    "co2AvoidedKg": 9108945
+  },
+  {
+    "creditId": "CC_003",
+    "plantId": "PLANT_003",
+    "month": "2026-02",
+    "unitsKwh": 1555650,
+    "co2AvoidedKg": 1104511.5
+  },
+  {
+    "creditId": "CC_004",
+    "plantId": "PLANT_004",
+    "month": "2026-04",
+    "unitsKwh": 885300,
+    "co2AvoidedKg": 628563
+  },
+  {
+    "creditId": "CC_005",
+    "plantId": "PLANT_005",
+    "month": "2025-11",
+    "unitsKwh": 5645600,
+    "co2AvoidedKg": 4008376
+  },
+  {
+    "creditId": "CC_006",
+    "plantId": "PLANT_006",
+    "month": "2026-02",
+    "unitsKwh": 1476100,
+    "co2AvoidedKg": 1048031
+  },
+  {
+    "creditId": "CC_007",
+    "plantId": "PLANT_007",
+    "month": "2026-08",
+    "unitsKwh": 3614200,
+    "co2AvoidedKg": 2566082
+  },
+  {
+    "creditId": "CC_008",
+    "plantId": "PLANT_008",
+    "month": "2026-08",
+    "unitsKwh": 13690500,
+    "co2AvoidedKg": 9720255
+  },
+  {
+    "creditId": "CC_009",
+    "plantId": "PLANT_009",
+    "month": "2026-03",
+    "unitsKwh": 3003500,
+    "co2AvoidedKg": 2132485
+  },
+  {
+    "creditId": "CC_010",
+    "plantId": "PLANT_010",
+    "month": "2026-09",
+    "unitsKwh": 8583500,
+    "co2AvoidedKg": 6094285
+  },
+  {
+    "creditId": "CC_011",
+    "plantId": "PLANT_011",
+    "month": "2026-04",
+    "unitsKwh": 2072550,
+    "co2AvoidedKg": 1471510.5
+  },
+  {
+    "creditId": "CC_012",
+    "plantId": "PLANT_012",
+    "month": "2025-12",
+    "unitsKwh": 2805800,
+    "co2AvoidedKg": 1992118
+  },
+  {
+    "creditId": "CC_013",
+    "plantId": "PLANT_013",
+    "month": "2025-12",
+    "unitsKwh": 11031000,
+    "co2AvoidedKg": 7832010
+  },
+  {
+    "creditId": "CC_014",
+    "plantId": "PLANT_014",
+    "month": "2026-09",
+    "unitsKwh": 1900800,
+    "co2AvoidedKg": 1349568
+  },
+  {
+    "creditId": "CC_015",
+    "plantId": "PLANT_015",
+    "month": "2026-04",
+    "unitsKwh": 1242700,
+    "co2AvoidedKg": 882317
+  },
+  {
+    "creditId": "CC_016",
+    "plantId": "PLANT_016",
+    "month": "2026-05",
+    "unitsKwh": 2686650,
+    "co2AvoidedKg": 1907521.5
+  },
+  {
+    "creditId": "CC_017",
+    "plantId": "PLANT_017",
+    "month": "2025-11",
+    "unitsKwh": 2246000,
+    "co2AvoidedKg": 1594660
+  },
+  {
+    "creditId": "CC_018",
+    "plantId": "PLANT_018",
+    "month": "2026-01",
+    "unitsKwh": 3985500,
+    "co2AvoidedKg": 2829705
+  },
+  {
+    "creditId": "CC_019",
+    "plantId": "PLANT_019",
+    "month": "2026-09",
+    "unitsKwh": 8051500,
+    "co2AvoidedKg": 5716565
+  },
+  {
+    "creditId": "CC_020",
+    "plantId": "PLANT_020",
+    "month": "2026-05",
+    "unitsKwh": 3341000,
+    "co2AvoidedKg": 2372110
+  },
+  {
+    "creditId": "CC_021",
+    "plantId": "PLANT_021",
+    "month": "2026-02",
+    "unitsKwh": 1577100,
+    "co2AvoidedKg": 1119741
+  },
+  {
+    "creditId": "CC_022",
+    "plantId": "PLANT_022",
+    "month": "2025-10",
+    "unitsKwh": 13934250,
+    "co2AvoidedKg": 9893317.5
+  },
+  {
+    "creditId": "CC_023",
+    "plantId": "PLANT_023",
+    "month": "2026-08",
+    "unitsKwh": 12944250,
+    "co2AvoidedKg": 9190417.5
+  },
+  {
+    "creditId": "CC_024",
+    "plantId": "PLANT_024",
+    "month": "2025-10",
+    "unitsKwh": 1238000,
+    "co2AvoidedKg": 878980
+  },
+  {
+    "creditId": "CC_025",
+    "plantId": "PLANT_025",
+    "month": "2025-11",
+    "unitsKwh": 3262000,
+    "co2AvoidedKg": 2316020
+  },
+  {
+    "creditId": "CC_026",
+    "plantId": "PLANT_026",
+    "month": "2025-10",
+    "unitsKwh": 498200,
+    "co2AvoidedKg": 353722
+  },
+  {
+    "creditId": "CC_027",
+    "plantId": "PLANT_027",
+    "month": "2026-07",
+    "unitsKwh": 4045200,
+    "co2AvoidedKg": 2872092
+  },
+  {
+    "creditId": "CC_028",
+    "plantId": "PLANT_028",
+    "month": "2026-06",
+    "unitsKwh": 1053300,
+    "co2AvoidedKg": 747843
+  },
+  {
+    "creditId": "CC_029",
+    "plantId": "PLANT_029",
+    "month": "2025-11",
+    "unitsKwh": 7222500,
+    "co2AvoidedKg": 5127975
+  },
+  {
+    "creditId": "CC_030",
+    "plantId": "PLANT_030",
+    "month": "2026-04",
+    "unitsKwh": 1129000,
+    "co2AvoidedKg": 801590
+  },
+  {
+    "creditId": "CC_031",
+    "plantId": "PLANT_031",
+    "month": "2026-04",
+    "unitsKwh": 3509600,
+    "co2AvoidedKg": 2491816
+  },
+  {
+    "creditId": "CC_032",
+    "plantId": "PLANT_032",
+    "month": "2026-06",
+    "unitsKwh": 11922000,
+    "co2AvoidedKg": 8464620
+  },
+  {
+    "creditId": "CC_033",
+    "plantId": "PLANT_033",
+    "month": "2026-08",
+    "unitsKwh": 2578600,
+    "co2AvoidedKg": 1830806
+  },
+  {
+    "creditId": "CC_034",
+    "plantId": "PLANT_034",
+    "month": "2025-12",
+    "unitsKwh": 2491200,
+    "co2AvoidedKg": 1768752
+  },
+  {
+    "creditId": "CC_035",
+    "plantId": "PLANT_035",
+    "month": "2026-08",
+    "unitsKwh": 6828000,
+    "co2AvoidedKg": 4847880
+  },
+  {
+    "creditId": "CC_036",
+    "plantId": "PLANT_036",
+    "month": "2026-03",
+    "unitsKwh": 1311100,
+    "co2AvoidedKg": 930881
+  },
+  {
+    "creditId": "CC_037",
+    "plantId": "PLANT_037",
+    "month": "2026-05",
+    "unitsKwh": 8078500,
+    "co2AvoidedKg": 5735735
+  },
+  {
+    "creditId": "CC_038",
+    "plantId": "PLANT_038",
+    "month": "2026-07",
+    "unitsKwh": 10395000,
+    "co2AvoidedKg": 7380450
+  },
+  {
+    "creditId": "CC_039",
+    "plantId": "PLANT_039",
+    "month": "2025-12",
+    "unitsKwh": 1661500,
+    "co2AvoidedKg": 1179665
+  },
+  {
+    "creditId": "CC_040",
+    "plantId": "PLANT_040",
+    "month": "2026-08",
+    "unitsKwh": 1378600,
+    "co2AvoidedKg": 978806
+  },
+  {
+    "creditId": "CC_041",
+    "plantId": "PLANT_041",
+    "month": "2026-07",
+    "unitsKwh": 1163000,
+    "co2AvoidedKg": 825730
+  },
+  {
+    "creditId": "CC_042",
+    "plantId": "PLANT_042",
+    "month": "2025-11",
+    "unitsKwh": 4790000,
+    "co2AvoidedKg": 3400900
+  },
+  {
+    "creditId": "CC_043",
+    "plantId": "PLANT_043",
+    "month": "2026-07",
+    "unitsKwh": 1082900,
+    "co2AvoidedKg": 768859
+  },
+  {
+    "creditId": "CC_044",
+    "plantId": "PLANT_044",
+    "month": "2026-08",
+    "unitsKwh": 11129250,
+    "co2AvoidedKg": 7901767.5
+  },
+  {
+    "creditId": "CC_045",
+    "plantId": "PLANT_045",
+    "month": "2026-03",
+    "unitsKwh": 4385000,
+    "co2AvoidedKg": 3113350
+  },
+  {
+    "creditId": "CC_046",
+    "plantId": "PLANT_046",
+    "month": "2025-10",
+    "unitsKwh": 4789750,
+    "co2AvoidedKg": 3400722.5
+  },
+  {
+    "creditId": "CC_047",
+    "plantId": "PLANT_047",
+    "month": "2026-02",
+    "unitsKwh": 3577000,
+    "co2AvoidedKg": 2539670
+  },
+  {
+    "creditId": "CC_048",
+    "plantId": "PLANT_048",
+    "month": "2026-02",
+    "unitsKwh": 1525800,
+    "co2AvoidedKg": 1083318
+  },
+  {
+    "creditId": "CC_049",
+    "plantId": "PLANT_049",
+    "month": "2026-05",
+    "unitsKwh": 1112700,
+    "co2AvoidedKg": 790017
+  },
+  {
+    "creditId": "CC_050",
+    "plantId": "PLANT_050",
+    "month": "2025-12",
+    "unitsKwh": 1064800,
+    "co2AvoidedKg": 756008
+  },
+  {
+    "creditId": "CC_051",
+    "plantId": "PLANT_051",
+    "month": "2026-05",
+    "unitsKwh": 8509500,
+    "co2AvoidedKg": 6041745
+  },
+  {
+    "creditId": "CC_052",
+    "plantId": "PLANT_052",
+    "month": "2025-11",
+    "unitsKwh": 4020000,
+    "co2AvoidedKg": 2854200
+  },
+  {
+    "creditId": "CC_053",
+    "plantId": "PLANT_053",
+    "month": "2026-03",
+    "unitsKwh": 7295600,
+    "co2AvoidedKg": 5179876
+  },
+  {
+    "creditId": "CC_054",
+    "plantId": "PLANT_054",
+    "month": "2025-11",
+    "unitsKwh": 12042750,
+    "co2AvoidedKg": 8550352.5
+  },
+  {
+    "creditId": "CC_055",
+    "plantId": "PLANT_055",
+    "month": "2026-08",
+    "unitsKwh": 1523100,
+    "co2AvoidedKg": 1081401
+  },
+  {
+    "creditId": "CC_056",
+    "plantId": "PLANT_056",
+    "month": "2025-10",
+    "unitsKwh": 547020,
+    "co2AvoidedKg": 388384.2
+  },
+  {
+    "creditId": "CC_057",
+    "plantId": "PLANT_057",
+    "month": "2026-01",
+    "unitsKwh": 2927760,
+    "co2AvoidedKg": 2078709.6
+  },
+  {
+    "creditId": "CC_058",
+    "plantId": "PLANT_058",
+    "month": "2026-02",
+    "unitsKwh": 3205440,
+    "co2AvoidedKg": 2275862.4
+  },
+  {
+    "creditId": "CC_059",
+    "plantId": "PLANT_059",
+    "month": "2026-08",
+    "unitsKwh": 7253400,
+    "co2AvoidedKg": 5149914
+  },
+  {
+    "creditId": "CC_060",
+    "plantId": "PLANT_060",
+    "month": "2026-08",
+    "unitsKwh": 1916520,
+    "co2AvoidedKg": 1360729.2
+  },
+  {
+    "creditId": "CC_061",
+    "plantId": "PLANT_061",
+    "month": "2025-11",
+    "unitsKwh": 2064960,
+    "co2AvoidedKg": 1466121.6
+  },
+  {
+    "creditId": "CC_062",
+    "plantId": "PLANT_062",
+    "month": "2025-12",
+    "unitsKwh": 5365440,
+    "co2AvoidedKg": 3809462.4
+  },
+  {
+    "creditId": "CC_063",
+    "plantId": "PLANT_063",
+    "month": "2026-05",
+    "unitsKwh": 4234080,
+    "co2AvoidedKg": 3006196.8
+  },
+  {
+    "creditId": "CC_064",
+    "plantId": "PLANT_064",
+    "month": "2026-06",
+    "unitsKwh": 9111600,
+    "co2AvoidedKg": 6469236
+  },
+  {
+    "creditId": "CC_065",
+    "plantId": "PLANT_065",
+    "month": "2026-05",
+    "unitsKwh": 2779560,
+    "co2AvoidedKg": 1973487.6
+  },
+  {
+    "creditId": "CC_066",
+    "plantId": "PLANT_066",
+    "month": "2026-08",
+    "unitsKwh": 3167280,
+    "co2AvoidedKg": 2248768.8
+  },
+  {
+    "creditId": "CC_067",
+    "plantId": "PLANT_067",
+    "month": "2025-11",
+    "unitsKwh": 2308680,
+    "co2AvoidedKg": 1639162.8
+  },
+  {
+    "creditId": "CC_068",
+    "plantId": "PLANT_068",
+    "month": "2025-12",
+    "unitsKwh": 9147600,
+    "co2AvoidedKg": 6494796
+  },
+  {
+    "creditId": "CC_069",
+    "plantId": "PLANT_069",
+    "month": "2025-12",
+    "unitsKwh": 958320,
+    "co2AvoidedKg": 680407.2
+  },
+  {
+    "creditId": "CC_070",
+    "plantId": "PLANT_070",
+    "month": "2026-04",
+    "unitsKwh": 3243780,
+    "co2AvoidedKg": 2303083.8
+  },
+  {
+    "creditId": "CC_071",
+    "plantId": "PLANT_071",
+    "month": "2026-05",
+    "unitsKwh": 1008240,
+    "co2AvoidedKg": 715850.4
+  },
+  {
+    "creditId": "CC_072",
+    "plantId": "PLANT_072",
+    "month": "2026-07",
+    "unitsKwh": 9423600,
+    "co2AvoidedKg": 6690756
+  },
+  {
+    "creditId": "CC_073",
+    "plantId": "PLANT_073",
+    "month": "2026-03",
+    "unitsKwh": 1034880,
+    "co2AvoidedKg": 734764.8
+  },
+  {
+    "creditId": "CC_074",
+    "plantId": "PLANT_074",
+    "month": "2026-07",
+    "unitsKwh": 4870080,
+    "co2AvoidedKg": 3457756.8
+  },
+  {
+    "creditId": "CC_075",
+    "plantId": "PLANT_075",
+    "month": "2026-01",
+    "unitsKwh": 877920,
+    "co2AvoidedKg": 623323.2
+  },
+  {
+    "creditId": "CC_076",
+    "plantId": "PLANT_076",
+    "month": "2025-11",
+    "unitsKwh": 3181320,
+    "co2AvoidedKg": 2258737.2
+  },
+  {
+    "creditId": "CC_077",
+    "plantId": "PLANT_077",
+    "month": "2026-07",
+    "unitsKwh": 3848640,
+    "co2AvoidedKg": 2732534.4
+  },
+  {
+    "creditId": "CC_078",
+    "plantId": "PLANT_078",
+    "month": "2026-08",
+    "unitsKwh": 5564520,
+    "co2AvoidedKg": 3950809.2
+  },
+  {
+    "creditId": "CC_079",
+    "plantId": "PLANT_079",
+    "month": "2026-03",
+    "unitsKwh": 2527200,
+    "co2AvoidedKg": 1794312
+  },
+  {
+    "creditId": "CC_080",
+    "plantId": "PLANT_080",
+    "month": "2026-07",
+    "unitsKwh": 577920,
+    "co2AvoidedKg": 410323.2
+  },
+  {
+    "creditId": "CC_081",
+    "plantId": "PLANT_081",
+    "month": "2026-01",
+    "unitsKwh": 6922200,
+    "co2AvoidedKg": 4914762
+  },
+  {
+    "creditId": "CC_082",
+    "plantId": "PLANT_082",
+    "month": "2026-08",
+    "unitsKwh": 8154600,
+    "co2AvoidedKg": 5789766
+  },
+  {
+    "creditId": "CC_083",
+    "plantId": "PLANT_083",
+    "month": "2025-10",
+    "unitsKwh": 3122820,
+    "co2AvoidedKg": 2217202.2
+  },
+  {
+    "creditId": "CC_084",
+    "plantId": "PLANT_084",
+    "month": "2026-01",
+    "unitsKwh": 11560800,
+    "co2AvoidedKg": 8208168
+  },
+  {
+    "creditId": "CC_085",
+    "plantId": "PLANT_085",
+    "month": "2026-04",
+    "unitsKwh": 2270520,
+    "co2AvoidedKg": 1612069.2
+  },
+  {
+    "creditId": "CC_086",
+    "plantId": "PLANT_086",
+    "month": "2026-03",
+    "unitsKwh": 2742660,
+    "co2AvoidedKg": 1947288.6
+  },
+  {
+    "creditId": "CC_087",
+    "plantId": "PLANT_087",
+    "month": "2026-07",
+    "unitsKwh": 1115520,
+    "co2AvoidedKg": 792019.2
+  },
+  {
+    "creditId": "CC_088",
+    "plantId": "PLANT_088",
+    "month": "2025-12",
+    "unitsKwh": 852900,
+    "co2AvoidedKg": 605559
+  },
+  {
+    "creditId": "CC_089",
+    "plantId": "PLANT_089",
+    "month": "2026-08",
+    "unitsKwh": 10786200,
+    "co2AvoidedKg": 7658202
+  },
+  {
+    "creditId": "CC_090",
+    "plantId": "PLANT_090",
+    "month": "2026-05",
+    "unitsKwh": 4122000,
+    "co2AvoidedKg": 2926620
+  },
+  {
+    "creditId": "CC_091",
+    "plantId": "PLANT_091",
+    "month": "2026-05",
+    "unitsKwh": 2617920,
+    "co2AvoidedKg": 1858723.2
+  },
+  {
+    "creditId": "CC_092",
+    "plantId": "PLANT_092",
+    "month": "2026-04",
+    "unitsKwh": 2687280,
+    "co2AvoidedKg": 1907968.8
+  },
+  {
+    "creditId": "CC_093",
+    "plantId": "PLANT_093",
+    "month": "2026-05",
+    "unitsKwh": 3792240,
+    "co2AvoidedKg": 2692490.4
+  },
+  {
+    "creditId": "CC_094",
+    "plantId": "PLANT_094",
+    "month": "2026-03",
+    "unitsKwh": 7347840,
+    "co2AvoidedKg": 5216966.4
+  },
+  {
+    "creditId": "CC_095",
+    "plantId": "PLANT_095",
+    "month": "2026-05",
+    "unitsKwh": 2054880,
+    "co2AvoidedKg": 1458964.8
+  },
+  {
+    "creditId": "CC_096",
+    "plantId": "PLANT_096",
+    "month": "2026-01",
+    "unitsKwh": 3754750,
+    "co2AvoidedKg": 2665872.5
+  },
+  {
+    "creditId": "CC_097",
+    "plantId": "PLANT_097",
+    "month": "2025-10",
+    "unitsKwh": 5848320,
+    "co2AvoidedKg": 4152307.2
+  },
+  {
+    "creditId": "CC_098",
+    "plantId": "PLANT_098",
+    "month": "2026-07",
+    "unitsKwh": 3123520,
+    "co2AvoidedKg": 2217699.2
+  },
+  {
+    "creditId": "CC_099",
+    "plantId": "PLANT_099",
+    "month": "2026-01",
+    "unitsKwh": 4744750,
+    "co2AvoidedKg": 3368772.5
+  },
+  {
+    "creditId": "CC_100",
+    "plantId": "PLANT_100",
+    "month": "2026-04",
+    "unitsKwh": 1588640,
+    "co2AvoidedKg": 1127934.4
+  },
+  {
+    "creditId": "CC_101",
+    "plantId": "PLANT_101",
+    "month": "2026-04",
+    "unitsKwh": 706720,
+    "co2AvoidedKg": 501771.2
+  },
+  {
+    "creditId": "CC_102",
+    "plantId": "PLANT_102",
+    "month": "2026-04",
+    "unitsKwh": 3083250,
+    "co2AvoidedKg": 2189107.5
+  },
+  {
+    "creditId": "CC_103",
+    "plantId": "PLANT_103",
+    "month": "2026-09",
+    "unitsKwh": 1185600,
+    "co2AvoidedKg": 841776
+  },
+  {
+    "creditId": "CC_104",
+    "plantId": "PLANT_104",
+    "month": "2026-08",
+    "unitsKwh": 1444800,
+    "co2AvoidedKg": 1025808
+  },
+  {
+    "creditId": "CC_105",
+    "plantId": "PLANT_105",
+    "month": "2026-07",
+    "unitsKwh": 2312250,
+    "co2AvoidedKg": 1641697.5
+  },
+  {
+    "creditId": "CC_106",
+    "plantId": "PLANT_106",
+    "month": "2026-09",
+    "unitsKwh": 10543650,
+    "co2AvoidedKg": 7485991.5
+  },
+  {
+    "creditId": "CC_107",
+    "plantId": "PLANT_107",
+    "month": "2026-04",
+    "unitsKwh": 6083840,
+    "co2AvoidedKg": 4319526.4
+  },
+  {
+    "creditId": "CC_108",
+    "plantId": "PLANT_108",
+    "month": "2025-12",
+    "unitsKwh": 9380000,
+    "co2AvoidedKg": 6659800
+  },
+  {
+    "creditId": "CC_109",
+    "plantId": "PLANT_109",
+    "month": "2026-01",
+    "unitsKwh": 4634500,
+    "co2AvoidedKg": 3290495
+  },
+  {
+    "creditId": "CC_110",
+    "plantId": "PLANT_110",
+    "month": "2026-07",
+    "unitsKwh": 2952160,
+    "co2AvoidedKg": 2096033.6
+  },
+  {
+    "creditId": "CC_111",
+    "plantId": "PLANT_111",
+    "month": "2026-06",
+    "unitsKwh": 4085120,
+    "co2AvoidedKg": 2900435.2
+  },
+  {
+    "creditId": "CC_112",
+    "plantId": "PLANT_112",
+    "month": "2025-11",
+    "unitsKwh": 12086750,
+    "co2AvoidedKg": 8581592.5
+  },
+  {
+    "creditId": "CC_113",
+    "plantId": "PLANT_113",
+    "month": "2026-06",
+    "unitsKwh": 3430720,
+    "co2AvoidedKg": 2435811.2
+  },
+  {
+    "creditId": "CC_114",
+    "plantId": "PLANT_114",
+    "month": "2026-02",
+    "unitsKwh": 7392450,
+    "co2AvoidedKg": 5248639.5
+  },
+  {
+    "creditId": "CC_115",
+    "plantId": "PLANT_115",
+    "month": "2026-05",
+    "unitsKwh": 4696000,
+    "co2AvoidedKg": 3334160
+  },
+  {
+    "creditId": "CC_116",
+    "plantId": "PLANT_116",
+    "month": "2026-01",
+    "unitsKwh": 5028500,
+    "co2AvoidedKg": 3570235
+  },
+  {
+    "creditId": "CC_117",
+    "plantId": "PLANT_117",
+    "month": "2025-11",
+    "unitsKwh": 2348160,
+    "co2AvoidedKg": 1667193.6
+  },
+  {
+    "creditId": "CC_118",
+    "plantId": "PLANT_118",
+    "month": "2026-06",
+    "unitsKwh": 3077600,
+    "co2AvoidedKg": 2185096
+  },
+  {
+    "creditId": "CC_119",
+    "plantId": "PLANT_119",
+    "month": "2026-06",
+    "unitsKwh": 12171250,
+    "co2AvoidedKg": 8641587.5
+  },
+  {
+    "creditId": "CC_120",
+    "plantId": "PLANT_120",
+    "month": "2025-11",
+    "unitsKwh": 7159500,
+    "co2AvoidedKg": 5083245
+  }
+]
